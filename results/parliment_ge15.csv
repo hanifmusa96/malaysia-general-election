@@ -1,0 +1,937 @@
+State,Parliment,Name,Party,Vote,Result
+Johor,Segamat,R. Yuneswaran,Pakatan Harapan,23437,Menang
+Johor,Segamat,Poobalan Ponnusamy,Perikatan Nasional,8385,Kalah
+Johor,Segamat,Syed Hairoul,Parti Pejuang Tanahair,1062,Kalah
+Johor,Segamat,Tan Sri M Ramasamy,Barisan Nasional,17768,Kalah
+Johor,Sekijang,Dr. Zaliha Mustafa,Pakatan Harapan,18941,Menang
+Johor,Sekijang,Md Salleheen Bin Mohamad,Barisan Nasional,17207,Kalah
+Johor,Sekijang,Uzzair Bin Ismail,Perikatan Nasional,11612,Kalah
+Johor,Sekijang,Dr. Mohd Zohar,Parti Warisan Sabah,0,Kalah
+Johor,Sekijang,Saiful Faizal,Parti Pejuang Tanahair,0,Kalah
+Johor,Labis,Pang Hok Liong,Pakatan Harapan,16133,Menang
+Johor,Labis,Chua Tee Yong,Barisan Nasional,13300,Kalah
+Johor,Labis,Alvin Chang,Perikatan Nasional,5312,Kalah
+Johor,Pagoh,Iskandar Shah,Pakatan Harapan,14979,Kalah
+Johor,Pagoh,Datuk Seri Razali Ibrahim,Barisan Nasional,14426,Kalah
+Johor,Pagoh,Tan Sri Muhyiddin Bin Md Yasin,Perikatan Nasional,24986,Menang
+Johor,Ledang,Syed Ibrahim Syed Noh,Pakatan Harapan,33650,Menang
+Johor,Ledang,Hamim Samuri,Barisan Nasional,23881,Kalah
+Johor,Ledang,Zaidi Hj Majid,Perikatan Nasional,22292,Kalah
+Johor,Ledang,Rafidah Ridwan,Parti Pejuang Tanahair,269,Kalah
+Johor,Ledang,Zainal Bahrom,Bebas,75,Kalah
+Johor,Ledang,Cikgu Yunus,Bebas,140,Kalah
+Johor,Bakri,Tan Hong Pin,Pakatan Harapan,36636,Menang
+Johor,Bakri,Chris Lee Ching Yong,Barisan Nasional,17382,Kalah
+Johor,Bakri,R. S. Chelva,Perikatan Nasional,17222,Kalah
+Johor,Bakri,Haron Jaffar,Bebas,1900,Kalah
+Johor,Muar,Syed Saddiq,Ikatan Demokratik Malaysia,19961,Menang
+Johor,Muar,Mohd Helmy Abd.Latif,Barisan Nasional,14581,Kalah
+Johor,Muar,Ustaz Abdullah Husin,Perikatan Nasional,18616,Kalah
+Johor,Parit Sulong,Noraini Ahmad,Barisan Nasional,25740,Menang
+Johor,Parit Sulong,Dr Karim,Perikatan Nasional,23719,Kalah
+Johor,Parit Sulong,Mohd Faizal Dolah,Pakatan Harapan,13495,Kalah
+Johor,Sri Gading,Datuk Lassim Burhan,Barisan Nasional,19242,Kalah
+Johor,Sri Gading,Zanariyah ,Perikatan Nasional,18475,Kalah
+Johor,Sri Gading,Mahdzir Bin Ibrahim,Parti Pejuang Tanahair,305,Kalah
+Johor,Sri Gading,Cikgu Huda,Pakatan Harapan,23242,Menang
+Johor,Batu Pahat,Ishak Siraj ,Barisan Nasional,24309,Kalah
+Johor,Batu Pahat,Dato' Rashid Hasnon,Perikatan Nasional,29270,Kalah
+Johor,Batu Pahat,Nizam Bashir,Parti Pejuang Tanahair,410,Kalah
+Johor,Batu Pahat,Onn Bin Abu Bakar,Pakatan Harapan,45242,Menang
+Johor,Batu Pahat,Zahari Bin Osman,Parti Rakyat Malaysia,263,Kalah
+Johor,Simpang Renggam,Dr Maszlee Malik,Pakatan Harapan,16491,Kalah
+Johor,Simpang Renggam,Hasni Bin Mohammad,Barisan Nasional,18312,Menang
+Johor,Simpang Renggam,Fazrul Kamat,Perikatan Nasional,9077,Kalah
+Johor,Simpang Renggam,Kamal,Parti Pejuang Tanahair,251,Kalah
+Johor,Kluang,Wong Shu Qi,Pakatan Harapan,49801,Menang
+Johor,Kluang,Gan Ping Sieu,Barisan Nasional,23395,Kalah
+Johor,Kluang,Dzulkarnain Bin Alias,Perikatan Nasional,22021,Kalah
+Johor,Kluang,Ir. U. Ramendran,Bebas,404,Kalah
+Johor,Sembrong,Hasni Abas,Pakatan Harapan,11692,Kalah
+Johor,Sembrong,Hishammuddin Hussein,Barisan Nasional,22572,Menang
+Johor,Sembrong,Joe Aziz,Perikatan Nasional,6666,Kalah
+Johor,Mersing,Zulaikha Zaidi,Pakatan Harapan,6813,Kalah
+Johor,Mersing,Abd Latif Bandi,Barisan Nasional,18729,Kalah
+Johor,Mersing,Islahuddin Abas,Perikatan Nasional,21066,Menang
+Johor,Mersing,Nurfatimah Ibrahim,Parti Pejuang Tanahair,209,Kalah
+Johor,Mersing,Ismail Bin Don,Bebas,89,Kalah
+Johor,Tenggara,Zuraidah Chedah,Pakatan Harapan,11618,Kalah
+Johor,Tenggara,Manndzri Bin Nasib,Barisan Nasional,21185,Menang
+Johor,Tenggara,Kolonel Nazari,Perikatan Nasional,18194,Kalah
+Johor,Tenggara,Azhar Palal,Parti Pejuang Tanahair,353,Kalah
+Johor,Kota Tinggi,Khaled Nordin ,Barisan Nasional,25410,Menang
+Johor,Kota Tinggi,Ridhwan Rasman,Perikatan Nasional,17020,Kalah
+Johor,Kota Tinggi,Onn Jaafar,Pakatan Harapan,4903,Kalah
+Johor,Pengerang,Azalina Othman Said,Barisan Nasional,21738,Menang
+Johor,Pengerang,Cikgu Imam Nizar,Perikatan Nasional,16728,Kalah
+Johor,Pengerang,Che Zakaria Bin Mohd Salleh,Pakatan Harapan,3374,Kalah
+Johor,Tebrau,Jimmy Puah Wee Tse,Pakatan Harapan,83959,Menang
+Johor,Tebrau,Nicole Wong,Barisan Nasional,30767,Kalah
+Johor,Tebrau,Mohamad Isa Bin Mohamad Basir,Perikatan Nasional,53239,Kalah
+Johor,Pasir Gudang,Hassan Abdul Karim,Pakatan Harapan,71233,Menang
+Johor,Pasir Gudang,Noor Azleen Ambros,Barisan Nasional,37369,Kalah
+Johor,Pasir Gudang,Mohamad Farid Bin Abdul Razak,Perikatan Nasional,39675,Kalah
+Johor,Pasir Gudang,Mohammad Raffi Beran,Parti Pejuang Tanahair,1003,Kalah
+Johor,Johor Bahru,Akmal Nasir,Pakatan Harapan,43252,Menang
+Johor,Johor Bahru,Johan Ropi,Barisan Nasional,27211,Kalah
+Johor,Johor Bahru,Mohtaj,Perikatan Nasional,22075,Kalah
+Johor,Johor Bahru,Hairy Mahmood,Parti Pejuang Tanahair,1855,Kalah
+Johor,Pulai,Nur Jazlan,Barisan Nasional,31726,Kalah
+Johor,Pulai,Loh Kah Yong,Perikatan Nasional,20677,Kalah
+Johor,Pulai,Datuk Seri Salahuddin Ayub,Pakatan Harapan,64900,Menang
+Johor,Iskandar Puteri,Liew Chin Tong,Pakatan Harapan,96819,Menang
+Johor,Iskandar Puteri,Datuk Jason Teoh,Barisan Nasional,36783,Kalah
+Johor,Iskandar Puteri,Jashen Tan,Perikatan Nasional,30078,Kalah
+Johor,Kulai,Teo Nie Ching,Pakatan Harapan,65529,Menang
+Johor,Kulai,Chua Jian Boon,Barisan Nasional,29506,Kalah
+Johor,Kulai,Dato' Tan,Perikatan Nasional,20218,Kalah
+Johor,Pontian,Datuk Seri Ahmad Maslan,Barisan Nasional,23201,Menang
+Johor,Pontian,Cikgu Isa Bin Ab Hamid,Perikatan Nasional,17443,Kalah
+Johor,Pontian,Jamaluddin Mohamad,Parti Pejuang Tanahair,306,Kalah
+Johor,Pontian,Shazwan Zdainal,Pakatan Harapan,15901,Kalah
+Johor,Tanjung Piai,Lim Wei Jiet,Ikatan Demokratik Malaysia,17233,Kalah
+Johor,Tanjung Piai,Wee Jeck Seng,Barisan Nasional,23593,Menang
+Johor,Tanjung Piai,Najwah Halimah,Perikatan Nasional,13762,Kalah
+Johor,Ayer Hitam,Sheikh Omar,Pakatan Harapan,15948,Kalah
+Johor,Ayer Hitam,Wee Ka Siong,Barisan Nasional,18911,Menang
+Johor,Ayer Hitam,Syafiq Aziz,Perikatan Nasional,11833,Kalah
+Kedah,Langkawi,Zabidi Yahya,Pakatan Harapan,5417,Kalah
+Kedah,Langkawi,Dato' Armishah Siraj (Das),Barisan Nasional,11945,Kalah
+Kedah,Langkawi,Mohd Suhaimi Bin Abdullah,Perikatan Nasional,25463,Menang
+Kedah,Langkawi,Mahathir Bin Mohamad,Parti Pejuang Tanahair,4566,Kalah
+Kedah,Langkawi,Dato Paduka Abd Kadir,Bebas,89,Kalah
+Kedah,Jerlun,Dr. Mohamed Fadzil Mohd Ali,Pakatan Harapan,6149,Kalah
+Kedah,Jerlun,Othman Bin Aziz,Barisan Nasional,11229,Kalah
+Kedah,Jerlun,Dr. Abd Ghani Ahmad,Perikatan Nasional,31685,Menang
+Kedah,Jerlun,Dato' Seri Utama Mukhriz Mahathir,Parti Pejuang Tanahair,3144,Kalah
+Kedah,Kubang Pasu,Aizuddin Ariffin,Pakatan Harapan,16000,Kalah
+Kedah,Kubang Pasu,Hasmuni Bin Hassan (Tok Muni),Barisan Nasional,14489,Kalah
+Kedah,Kubang Pasu,Dato' Wira Dr Ku Abd Rahman Bin Ku Ismail,Perikatan Nasional,47584,Menang
+Kedah,Kubang Pasu,Amiruddin Hamzah (Tok Met),Parti Pejuang Tanahair,5329,Kalah
+Kedah,Padang Terap,Muaz Abdullah,Pakatan Harapan,2702,Kalah
+Kedah,Padang Terap,Mahdzir Bin Khalid,Barisan Nasional,17258,Kalah
+Kedah,Padang Terap,Ustaz Nurul Amin,Perikatan Nasional,28217,Menang
+Kedah,Padang Terap,Razali Bin Lebai Salleh,Parti Pejuang Tanahair,452,Kalah
+Kedah,Pokok Sena,Noran Zamini Bin Jamaluddin,Barisan Nasional,14523,Kalah
+Kedah,Pokok Sena,Dato' Ahmad Yahaya,Perikatan Nasional,52275,Menang
+Kedah,Pokok Sena,Noraini Binti Md Salleh,Parti Warisan Sabah,622,Kalah
+Kedah,Pokok Sena,Dato' Wira Hj Mahfuz Omar,Pakatan Harapan,20524,Kalah
+Kedah,Alor Setar,Tan Chee Hiong,Barisan Nasional,8930,Kalah
+Kedah,Alor Setar,Afnan Hamimi Bin Dato' Haji Taib Azamudden,Perikatan Nasional,37486,Menang
+Kedah,Alor Setar,Nuhairi Rahmat,Parti Pejuang Tanahair,2383,Kalah
+Kedah,Alor Setar,Fadzil Bin Hanafi,Parti Warisan Sabah,366,Kalah
+Kedah,Alor Setar,Simon Ooi Tze Min,Pakatan Harapan,27555,Kalah
+Kedah,Alor Setar,Dato' Dr Nordin Yunus,Bebas,115,Kalah
+Kedah,Alor Setar,Sofan Feroza,Bebas,151,Kalah
+Kedah,Kuala Kedah,Dr Azman Ismail,Pakatan Harapan,28237,Kalah
+Kedah,Kuala Kedah,Dato Dr Mashitah Binti Ibrahim,Barisan Nasional,13879,Kalah
+Kedah,Kuala Kedah,Dr. Ahmad Fakhruddin,Perikatan Nasional,56298,Menang
+Kedah,Kuala Kedah,Ulya Husamudin ,Parti Pejuang Tanahair,1805,Kalah
+Kedah,Kuala Kedah,Pak Tuan Al Idrus,Parti Warisan Sabah,256,Kalah
+Kedah,Pendang,Dato Zul,Pakatan Harapan,8058,Kalah
+Kedah,Pendang,Datuk Haji Awang Solahudin,Perikatan Nasional,49008,Menang
+Kedah,Pendang,Rashid Yob,Parti Pejuang Tanahair,809,Kalah
+Kedah,Pendang,Suraya Binti Yaacob,Barisan Nasional,17719,Kalah
+Kedah,Jerai,Zulhazmi Bin Shariff,Pakatan Harapan,15590,Kalah
+Kedah,Jerai,Dato Seri Dr. Jamil Khir Baharom,Barisan Nasional,16269,Kalah
+Kedah,Jerai,Ustaz Sabri Bin Azit,Perikatan Nasional,49461,Menang
+Kedah,Jerai,Datuk Nizam Mahshar,Parti Pejuang Tanahair,973,Kalah
+Kedah,Sik,Dato' Latifah Md Yatim,Pakatan Harapan,3736,Kalah
+Kedah,Sik,Maizatulakmam Binti Othman @ Ibrahim,Barisan Nasional,12819,Kalah
+Kedah,Sik,Ahmad Tarmizi Sulaiman,Perikatan Nasional,34606,Menang
+Kedah,Merbok,Dato' Shaiful Hazizy,Barisan Nasional,16691,Kalah
+Kedah,Merbok,Mohd Nazri Bin Abu Hassan,Perikatan Nasional,52573,Menang
+Kedah,Merbok,Datuk Mosin Razak,Parti Pejuang Tanahair,1201,Kalah
+Kedah,Merbok,Khairul Anuar ,Parti Warisan Sabah,525,Kalah
+Kedah,Merbok,Nurin Aina,Pakatan Harapan,31554,Kalah
+Kedah,Sungai Petani,Dr. Taufiq Bin Dato' Johari,Pakatan Harapan,50580,Menang
+Kedah,Sungai Petani,Dato' Shahanim Binti Mohamad Yusoff,Barisan Nasional,27391,Kalah
+Kedah,Sungai Petani,Dr. Robert Ling Kui Ee,Perikatan Nasional,49465,Kalah
+Kedah,Sungai Petani,Hj. Marzuki Yahya,Parti Pejuang Tanahair,2342,Kalah
+Kedah,Sungai Petani,Tan Joon Long @ Tan Chow Kang,Parti Rakyat Malaysia,226,Kalah
+Kedah,Baling,Cikgu Johari Abdullah,Pakatan Harapan,8636,Kalah
+Kedah,Baling,Datuk Azeez Rahim,Barisan Nasional,35356,Kalah
+Kedah,Baling,Ustaz Hassan,Perikatan Nasional,64493,Menang
+Kedah,Baling,Lt Kol (B) Basir ,Parti Pejuang Tanahair,579,Kalah
+Kedah,Kulim-Bandar Baharu,Datuk Seri Saifuddin Nasution Ismail,Pakatan Harapan,21408,Kalah
+Kedah,Kulim-Bandar Baharu,Datuk Muhar Bin Hussain,Barisan Nasional,13872,Kalah
+Kedah,Kulim-Bandar Baharu,Cikgu Roslan Hashim,Perikatan Nasional,34469,Menang
+Kedah,Kulim-Bandar Baharu,Mohamad Yusrizal Yusoff,Parti Pejuang Tanahair,591,Kalah
+Kelantan,Tumpat,Dato' Che Lah (Dcl),Barisan Nasional,30633,Kalah
+Kelantan,Tumpat,Dato' Kak Taz,Parti Islam Se-Malaysia,65426,Menang
+Kelantan,Tumpat,Khairul Azuan Kamarrudin,Parti Warisan Sabah,245,Kalah
+Kelantan,Tumpat,Haji Wan Jo,Pakatan Harapan,7762,Kalah
+Kelantan,Tumpat,Asri Ali,Parti Bumiputera Perkasa Malaysia,593,Kalah
+Kelantan,Pengkalan Chepa,Kak Jah,Pakatan Harapan,7356,Kalah
+Kelantan,Pengkalan Chepa,Dr. Hafiz,Barisan Nasional,15663,Kalah
+Kelantan,Pengkalan Chepa,Datuk Marzuk,Parti Islam Se-Malaysia,53933,Menang
+Kelantan,Pengkalan Chepa,Wan Ahmad Nasri,Parti Pejuang Tanahair,358,Kalah
+Kelantan,Pengkalan Chepa,Abe Wae - Redzuan,Bebas,451,Kalah
+Kelantan,Kota Bharu,Dr Hafidzah Mustakim,Pakatan Harapan,19256,Kalah
+Kelantan,Kota Bharu,Hj. Rosmadi Ismail,Barisan Nasional,16168,Kalah
+Kelantan,Kota Bharu,Datuk Seri Takiyuddin Hassan,Parti Islam Se-Malaysia,41869,Menang
+Kelantan,Kota Bharu,Andy Tan @ Awang,Parti Rakyat Malaysia,107,Kalah
+Kelantan,Kota Bharu,Prof. Dato Dr Che Musa Che Omar,Parti Bumiputera Perkasa Malaysia,528,Kalah
+Kelantan,Kota Bharu,Izat Bukhary,Bebas,91,Kalah
+Kelantan,Pasir Mas,Datuk Husam Musa,Pakatan Harapan,6439,Kalah
+Kelantan,Pasir Mas,Dato Ghani,Barisan Nasional,13727,Kalah
+Kelantan,Pasir Mas,Ustaz Fadhli Shaari,Parti Islam Se-Malaysia,44444,Menang
+Kelantan,Pasir Mas,Nasrul Ali Hasan,Parti Bumiputera Perkasa Malaysia,543,Kalah
+Kelantan,Rantau Panjang,Dr Shah,Pakatan Harapan,4256,Kalah
+Kelantan,Rantau Panjang,Prof Ust Zul,Barisan Nasional,17123,Kalah
+Kelantan,Rantau Panjang,Kak Lah,Parti Islam Se-Malaysia,37759,Menang
+Kelantan,Rantau Panjang,Datuk Zain,Parti Rakyat Malaysia,173,Kalah
+Kelantan,Rantau Panjang,Dato' Dr. Ibrahim Ali,Parti Bumiputera Perkasa Malaysia,1216,Kalah
+Kelantan,Kubang Kerian,Dr.Wan Ahmad Kamil,Pakatan Harapan,10236,Kalah
+Kelantan,Kubang Kerian,Kak Long,Barisan Nasional,14807,Kalah
+Kelantan,Kubang Kerian,Ustaz Dato' Tuan Ibrahim,Parti Islam Se-Malaysia,55654,Menang
+Kelantan,Kubang Kerian,Mohamad Rizal Bin Razali,Parti Pejuang Tanahair,687,Kalah
+Kelantan,Bachok,Nor Azmiza Mamat,Pakatan Harapan,4366,Kalah
+Kelantan,Bachok,Datuk Haji Zain Bin Yasim,Barisan Nasional,27229,Kalah
+Kelantan,Bachok,Syahir Sulaiman,Parti Islam Se-Malaysia,57130,Menang
+Kelantan,Bachok,Cikgu Zam,Parti Bumiputera Perkasa Malaysia,274,Kalah
+Kelantan,Bachok,Haji Zu,Bebas,418,Kalah
+Kelantan,Ketereh,Haji Rahimi,Pakatan Harapan,4662,Kalah
+Kelantan,Ketereh,Mej Jen Dato Hj Khlir (B),Parti Islam Se-Malaysia,40542,Menang
+Kelantan,Ketereh,Marzuani Ardila Ariffin (Gee),Barisan Nasional,17435,Kalah
+Kelantan,Ketereh,Haneef Ibrahim (Abe Haneef),Parti Bumiputera Perkasa Malaysia,223,Kalah
+Kelantan,Tanah Merah,Cikgu Bakri,Barisan Nasional,9781,Kalah
+Kelantan,Tanah Merah,Dato' Sri Ikmal Hisham,Parti Pribumi Bersatu Malaysia,54266,Menang
+Kelantan,Tanah Merah,Dato' D,Pakatan Harapan,5357,Kalah
+Kelantan,Tanah Merah,Datuk Nik Sapeia,Bebas,114,Kalah
+Kelantan,Tanah Merah,Lawyer Nasir Abdullah,Parti Bumiputera Perkasa Malaysia,168,Kalah
+Kelantan,Pasir Puteh,Ustaz Muhammad Husain,Pakatan Harapan,3864,Kalah
+Kelantan,Pasir Puteh,Datuk Cikgu Awi,Barisan Nasional,23828,Kalah
+Kelantan,Pasir Puteh,Ustaz Nik Zawawi,Parti Islam Se-Malaysia,52937,Menang
+Kelantan,Pasir Puteh,Kapten Wan Marzudi,Parti Pejuang Tanahair,349,Kalah
+Kelantan,Machang,Dr Rosli Allani Abdull Kadir,Pakatan Harapan,3934,Kalah
+Kelantan,Machang,Datuk Jazlan,Barisan Nasional,25449,Kalah
+Kelantan,Machang,Wan Ahmad Fayhsal Wan Ahmad Kamal,Parti Islam Se-Malaysia,35603,Menang
+Kelantan,Machang,Mejar (B) Mat,Parti Bumiputera Perkasa Malaysia,128,Kalah
+Kelantan,Jeli,Md Radzi Wahab,Pakatan Harapan,1140,Kalah
+Kelantan,Jeli,Norwahida Patuan,Barisan Nasional,14608,Kalah
+Kelantan,Jeli,Pok Zahari,Parti Islam Se-Malaysia,27072,Menang
+Kelantan,Jeli,Professor Dr Ir Hj Mat,Parti Bumiputera Perkasa Malaysia,133,Kalah
+Kelantan,Kuala Krai,Syam Ghaz,Pakatan Harapan,4148,Kalah
+Kelantan,Kuala Krai,Zuki,Barisan Nasional,17552,Kalah
+Kelantan,Kuala Krai,Ustaz Latiff,Parti Islam Se-Malaysia,42740,Menang
+Kelantan,Kuala Krai,Norashikin Bte Che Omar,Parti Pejuang Tanahair,241,Kalah
+Kelantan,Gua Musang,Asharun Uji Abe Yo,Pakatan Harapan,4517,Kalah
+Kelantan,Gua Musang,Tengku Razaleigh Hamzah,Barisan Nasional,21663,Kalah
+Kelantan,Gua Musang,Mohd Azizi Abu Naim,Parti Islam Se-Malaysia,21826,Menang
+Kelantan,Gua Musang,Dato' Dr. Adabi,Parti Pejuang Tanahair,371,Kalah
+Melaka,Masjid Tanah,Abdul Hakim Bin Abdul Wahid,Barisan Nasional,21193,Kalah
+Melaka,Masjid Tanah,Mas Ermieyati,Perikatan Nasional,25604,Menang
+Melaka,Masjid Tanah,Mutalib Uthman ,Ikatan Demokratik Malaysia,7445,Kalah
+Melaka,Masjid Tanah,Handrawirawan Bin Abu Bakar,Parti Pejuang Tanahair,507,Kalah
+Melaka,Alor Gajah,Adly Zahari,Pakatan Harapan,28178,Menang
+Melaka,Alor Gajah,Shahril Hamdan,Barisan Nasional,27288,Kalah
+Melaka,Alor Gajah,Pak Wan (Datuk Seri Mohd Redzuan Bin Md Yusof),Perikatan Nasional,17211,Kalah
+Melaka,Alor Gajah,Muhammad Nazriq Abdul Rahman,Parti Pejuang Tanahair,323,Kalah
+Melaka,Tangga Batu,Prof. Madya Rusnah Aluai,Pakatan Harapan,28557,Kalah
+Melaka,Tangga Batu,Datuk Lim Ban Hong,Barisan Nasional,25095,Kalah
+Melaka,Tangga Batu,Bakri Jamaluddin,Perikatan Nasional,37406,Menang
+Melaka,Tangga Batu,Ghazali Bin Abu,Parti Pejuang Tanahair,702,Kalah
+Melaka,Tangga Batu,Shahril Mahmood,Bebas,267,Kalah
+Melaka,Hang Tuah Jaya,Adam Adli,Pakatan Harapan,39418,Menang
+Melaka,Hang Tuah Jaya,Mohd Ridhwan Bin Mohd Ali,Barisan Nasional,30780,Kalah
+Melaka,Hang Tuah Jaya,Mohd Azrudin Bin Md Idris,Perikatan Nasional,23549,Kalah
+Melaka,Hang Tuah Jaya,Sheikh Ikhzan,Parti Pejuang Tanahair,739,Kalah
+Melaka,Kota Melaka,Khoo Poay Tiong,Pakatan Harapan,73995,Menang
+Melaka,Kota Melaka,Kon Qi Yao,Barisan Nasional,20686,Kalah
+Melaka,Kota Melaka,Suhaime Borhan,Perikatan Nasional,27575,Kalah
+Melaka,Kota Melaka,Dato' Dr. Norazlan,Bebas,925,Kalah
+Melaka,Jasin,Datuk Harun ,Pakatan Harapan,21674,Kalah
+Melaka,Jasin,Roslan Bin Ahmad,Barisan Nasional,27571,Kalah
+Melaka,Jasin,Tuan Guru Zulkifli Ismail,Perikatan Nasional,27893,Menang
+Melaka,Jasin,Mohd Daud Nasir,Parti Pejuang Tanahair,460,Kalah
+Negeri Sembilan,Jelebu,Jalaluddin Bin Alias,Barisan Nasional,21805,Menang
+Negeri Sembilan,Jelebu,Zaharuddin Baba Samion ,Perikatan Nasional,9596,Kalah
+Negeri Sembilan,Jelebu,Ahmad Fakhri,Parti Pejuang Tanahair,253,Kalah
+Negeri Sembilan,Jelebu,Dato' Zulkefly Omar,Pakatan Harapan,13680,Kalah
+Negeri Sembilan,Jempol,Norwani Ahmat,Pakatan Harapan,24281,Kalah
+Negeri Sembilan,Jempol,Affendy Salleh,Perikatan Nasional,16722,Kalah
+Negeri Sembilan,Jempol,Tan Sri Khalid Yunus,Parti Pejuang Tanahair,654,Kalah
+Negeri Sembilan,Jempol,Dato' Haji Shamshulkahar Bin Haji Mohd Deli,Barisan Nasional,30138,Menang
+Negeri Sembilan,Seremban,Loke Siew Fook,Pakatan Harapan,63916,Menang
+Negeri Sembilan,Seremban,Felicia Wong,Barisan Nasional,24584,Kalah
+Negeri Sembilan,Seremban,Haji Fadli Che Me,Perikatan Nasional,33075,Kalah
+Negeri Sembilan,Seremban,Sjn (B) Mohamad Jani,Parti Pejuang Tanahair,1336,Kalah
+Negeri Sembilan,Seremban,Izzat Lesly,Bebas,373,Kalah
+Negeri Sembilan,Kuala Pilah,Azman Bin Idris,Parti Warisan Sabah,333,Kalah
+Negeri Sembilan,Kuala Pilah,Nor Azman Mohamad ,Pakatan Harapan,14940,Kalah
+Negeri Sembilan,Kuala Pilah,Dato' Hj Adnan Hj Abu Hassan ,Barisan Nasional,21423,Menang
+Negeri Sembilan,Kuala Pilah,Kamarulzaman Kamdias,Parti Pejuang Tanahair,406,Kalah
+Negeri Sembilan,Kuala Pilah,Eddin Syazlee,Perikatan Nasional,11560,Kalah
+Negeri Sembilan,Rasah,Cha Kee Chin,Pakatan Harapan,81434,Menang
+Negeri Sembilan,Rasah,Ng Kian Nam,Barisan Nasional,19447,Kalah
+Negeri Sembilan,Rasah,David Choong,Perikatan Nasional,18810,Kalah
+Negeri Sembilan,Rembau,Jufitri Joha,Pakatan Harapan,33178,Kalah
+Negeri Sembilan,Rembau,Tok Mat,Barisan Nasional,53075,Menang
+Negeri Sembilan,Rembau,Hj. Nazree Yunus,Perikatan Nasional,21875,Kalah
+Negeri Sembilan,Rembau,Ramly Bin Awalludin,Parti Pejuang Tanahair,529,Kalah
+Negeri Sembilan,Rembau,Cikgu Tina,Parti Sosialis Malaysia,779,Kalah
+Negeri Sembilan,Port Dickson,Dato' Seri Aminuddin Bin Harun,Pakatan Harapan,42013,Menang
+Negeri Sembilan,Port Dickson,Datuk P.Kamalanathan,Barisan Nasional,18412,Kalah
+Negeri Sembilan,Port Dickson,Cikgu Haji Rafiei Mustapha,Perikatan Nasional,18235,Kalah
+Negeri Sembilan,Port Dickson,Dr. Ahmad Idham Bin Ahmad Nadzri,Parti Pejuang Tanahair,1084,Kalah
+Negeri Sembilan,Port Dickson,Rani Kulup,Bebas,441,Kalah
+Negeri Sembilan,Tampin,Faiz Fadzil,Pakatan Harapan,22007,Kalah
+Negeri Sembilan,Tampin,Mohd Isam Bin Mohd Isa,Barisan Nasional,23283,Menang
+Negeri Sembilan,Tampin,Mejar (B) Abdul Halim,Perikatan Nasional,14962,Kalah
+Negeri Sembilan,Tampin,Ustaz Zamani Ibrahim,Parti Pejuang Tanahair,781,Kalah
+Pahang,Cameron Highlands,Chiong Yoke Kong,Pakatan Harapan,11576,Kalah
+Pahang,Cameron Highlands,Dr. Abdul Rasid,Perikatan Nasional,5569,Kalah
+Pahang,Cameron Highlands,Dato' Ramli Bin Mohd Nor,Barisan Nasional,16120,Menang
+Pahang,Lipis,Tengku Zulpuri Shah Bin Raja Puji,Pakatan Harapan,6366,Kalah
+Pahang,Lipis,Dato' Shahrum ,Perikatan Nasional,11554,Kalah
+Pahang,Lipis,Aishaton Binti Abu Bakar,Parti Pejuang Tanahair,263,Kalah
+Pahang,Lipis,Dato Sri Abdul Rahman Bin Mohamad,Barisan Nasional,17672,Menang
+Pahang,Raub,Chow Yu Hui,Pakatan Harapan,21613,Menang
+Pahang,Raub,Chong Sin Woon,Barisan Nasional,16939,Kalah
+Pahang,Raub,Dato Fakrunizam Ibrahim,Perikatan Nasional,17256,Kalah
+Pahang,Raub,Norkhairul Anuar Bin Mohamed Nor,Parti Pejuang Tanahair,427,Kalah
+Pahang,Jerantut,Dato' Dr Hassan Basri Bin Awang Mat Dahan,Pakatan Harapan,11444,Kalah
+Pahang,Jerantut,Ir. Haji Khairil Nizam Bin Khirudin,Perikatan Nasional,31701,Menang
+Pahang,Jerantut,Dato' Mohd Zukarmi,Barisan Nasional,23609,Kalah
+Pahang,Indera Mahkota,Haji Zuraidi Ismail,Pakatan Harapan,33293,Kalah
+Pahang,Indera Mahkota,Dato' Quek Tai Seong,Barisan Nasional,16530,Kalah
+Pahang,Indera Mahkota,Dato' Sri Saifuddin Abdullah,Perikatan Nasional,41692,Menang
+Pahang,Indera Mahkota,Dr. Mohamad Nor Bin Sundari,Barisan Jemaah Islamiah Se-Malaysia,1864,Kalah
+Pahang,Kuantan,Fuziah Salleh,Pakatan Harapan,22648,Kalah
+Pahang,Kuantan,Wan Razali Wan Nor,Perikatan Nasional,25514,Menang
+Pahang,Kuantan,Dato' Sri Ab Hamid Bin Mohd Nazahar,Barisan Nasional,19114,Kalah
+Pahang,Kuantan,Mejar Anuar Tajuddin (B),Parti Pejuang Tanahair,486,Kalah
+Pahang,Paya Besar,Ustaz Aire Roslan,Perikatan Nasional,25582,Kalah
+Pahang,Paya Besar,Dato' Indera Mohd Shahar Bin Abdullah,Barisan Nasional,26899,Menang
+Pahang,Paya Besar,Ir. Rosminahar,Parti Pejuang Tanahair,310,Kalah
+Pahang,Paya Besar,Ahmad Azam,Pakatan Harapan,9192,Kalah
+Pahang,Pekan,Mohd Naim Zainal Abidin,Pakatan Harapan,6316,Kalah
+Pahang,Pekan,Ustaz Mohd Fadhil Noor Bin Abdul Karim,Perikatan Nasional,38469,Kalah
+Pahang,Pekan,Sh Mohmed Puzi Bin Sh Ali,Barisan Nasional,47418,Menang
+Pahang,Pekan,Dato' Radhi Abdul Razak,Parti Pejuang Tanahair,472,Kalah
+Pahang,Pekan,Tengku Dato' Hisham,Bebas,366,Kalah
+Pahang,Maran,Ahmad Shuhor Awang,Pakatan Harapan,3547,Kalah
+Pahang,Maran,Dato Sri Dr Hj Ismail B Hj Abd Muttalib,Perikatan Nasional,19600,Menang
+Pahang,Maran,Shahaniza Shamsuddin,Barisan Nasional,17779,Kalah
+Pahang,Maran,Muhamad Hafiz Al-Hafiz,Bebas,166,Kalah
+Pahang,Kuala Krau,Juhari Osman,Pakatan Harapan,3593,Kalah
+Pahang,Kuala Krau,Ustaz Haji Kamal Bin Ashaari,Perikatan Nasional,22505,Menang
+Pahang,Kuala Krau,Shahruddin Mohamed Salleh,Parti Pejuang Tanahair,174,Kalah
+Pahang,Kuala Krau,Dato' Sri Dr Haji Ismail Bin Mohamed Said,Barisan Nasional,21481,Kalah
+Pahang,Temerloh,Mohd Hasbie Muda,Pakatan Harapan,25409,Kalah
+Pahang,Temerloh,Hjh Salamiah Mohd Nor,Perikatan Nasional,30929,Menang
+Pahang,Temerloh,Aminuddin Bin Yahaya,Parti Pejuang Tanahair,1108,Kalah
+Pahang,Temerloh,Dato' Sri Hj Mohd Sharkar Bin Hj Shamsudin,Barisan Nasional,25191,Kalah
+Pahang,Bentong,Young Syefura Binti Othman,Pakatan Harapan,25075,Menang
+Pahang,Bentong,Tan Sri Liow Tiong Lai,Barisan Nasional,24383,Kalah
+Pahang,Bentong,Datuk Roslan Hassan,Perikatan Nasional,16233,Kalah
+Pahang,Bentong,Achik Khalil,Bebas,168,Kalah
+Pahang,Bentong,Wong Tack,Bebas,798,Kalah
+Pahang,Bera,Haji Abas Bin Awang,Pakatan Harapan,15067,Kalah
+Pahang,Bera,Dato Asmawi Bin Harun,Perikatan Nasional,12719,Kalah
+Pahang,Bera,Dato Sri Ismail Sabri Bin Yaakob,Barisan Nasional,31762,Menang
+Pahang,Rompin,Erman Shah Jaios,Pakatan Harapan,4779,Kalah
+Pahang,Rompin,Dato' Sri Haji Hasan Bin Arifin,Barisan Nasional,30151,Kalah
+Pahang,Rompin,Dato' Khalib,Perikatan Nasional,31589,Menang
+Pahang,Rompin,Hamizi Bin Hussain,Bebas,408,Kalah
+Perak,Gerik,Tarmizi Mohd Jam,Pakatan Harapan,5779,Kalah
+Perak,Gerik,Dr Asyraf Wajdi Dusuki,Barisan Nasional,13728,Kalah
+Perak,Gerik,Fathul Huzir Ayob,Perikatan Nasional,15105,Menang
+Perak,Lenggong,Jurey Latiff Rosli,Pakatan Harapan,3382,Kalah
+Perak,Lenggong,Dr Shamsul Anuar Nasarah,Barisan Nasional,12588,Menang
+Perak,Lenggong,Ustaz Rif'Aat Razman,Perikatan Nasional,11709,Kalah
+Perak,Larut,Ustaz Zolkharnain Bin Abidin,Pakatan Harapan,6207,Kalah
+Perak,Larut,Shafiq Fhadly Mahmud,Barisan Nasional,16752,Kalah
+Perak,Larut,Dato Seri Hamzah Zainudin,Perikatan Nasional,28350,Menang
+Perak,Larut,Ustaz Auzaie,Parti Pejuang Tanahair,566,Kalah
+Perak,Parit Buntar,Datuk Seri Dr Mujahid Yusof Rawa,Pakatan Harapan,17828,Kalah
+Perak,Parit Buntar,Cikgu Imran,Barisan Nasional,11593,Kalah
+Perak,Parit Buntar,Ustaz Misbah,Perikatan Nasional,23223,Menang
+Perak,Parit Buntar,Hj Rohijas,Parti Pejuang Tanahair,259,Kalah
+Perak,Bagan Serai,Siti Aishah Binti Shaik Ismail,Pakatan Harapan,13195,Kalah
+Perak,Bagan Serai,Haji Zul Helmi Ghazali,Barisan Nasional,15202,Kalah
+Perak,Bagan Serai,Haji Ahmad Luqman,Parti Pejuang Tanahair,383,Kalah
+Perak,Bagan Serai,Datuk Ustaz Idris Bin Ahmad,Perikatan Nasional,33753,Menang
+Perak,Bukit Gantang,Dr. Fakhruldin Mohd Hashim,Pakatan Harapan,18565,Kalah
+Perak,Bukit Gantang,Mohammad Sollehin Bin Mohamad Tajie,Barisan Nasional,19869,Kalah
+Perak,Bukit Gantang,Dato' Syed Abu Hussin,Perikatan Nasional,32625,Menang
+Perak,Bukit Gantang,Mohd Shukri Bin Mohd Yusoff,Parti Pejuang Tanahair,508,Kalah
+Perak,Taiping,Wong Kah Woh,Pakatan Harapan,47098,Menang
+Perak,Taiping,Cikgu See Tean Seng,Perikatan Nasional,21569,Kalah
+Perak,Taiping,Neow Choo Seong,Barisan Nasional,14599,Kalah
+Perak,Taiping,Ts.Dr.Rama,Bebas,113,Kalah
+Perak,Taiping,Mohganan A/L P Manikam,Bebas,236,Kalah
+Perak,Taiping,Leow Thye Yih,Bebas,1154,Kalah
+Perak,Padang Rengas,Kamil Munim,Pakatan Harapan,7062,Kalah
+Perak,Padang Rengas,Kapten Azahari Bin Hasan,Perikatan Nasional,12931,Menang
+Perak,Padang Rengas,Mohd Arrif Bin Abdul Majid,Barisan Nasional,9885,Kalah
+Perak,Sungai Siput,S. Kesavan,Pakatan Harapan,21637,Menang
+Perak,Sungai Siput,Tan Sri Sa. Vigneswaran (Tsv),Barisan Nasional,19791,Kalah
+Perak,Sungai Siput,Rajah A/L Narasaim,Bebas,35,Kalah
+Perak,Sungai Siput,Dato Sri Irudianathan,Perikatan Nasional,8190,Kalah
+Perak,Sungai Siput,Ahmad Fauzi Bin Mohd Jaafar,Parti Pejuang Tanahair,784,Kalah
+Perak,Sungai Siput,Haji Baha,Bebas,598,Kalah
+Perak,Sungai Siput,Indrani,Bebas,614,Kalah
+Perak,Tambun,Anwar Ibrahim,Pakatan Harapan,49625,Menang
+Perak,Tambun,Aminuddin Hanafiah,Barisan Nasional,28140,Kalah
+Perak,Tambun,Ahmad Faizal Azumu @ Peja,Perikatan Nasional,45889,Kalah
+Perak,Tambun,Abdul Rahim Tahir,Parti Pejuang Tanahair,1115,Kalah
+Perak,Ipoh Timur,Howard Lee Chuan How,Pakatan Harapan,57549,Menang
+Perak,Ipoh Timur,Ng Kai Cheong,Barisan Nasional,8570,Kalah
+Perak,Ipoh Timur,Nor Afzainizam Bin Salleh,Perikatan Nasional,13661,Kalah
+Perak,Ipoh Barat,M. Kula,Pakatan Harapan,63915,Menang
+Perak,Ipoh Barat,Chek Kwong Weng,Perikatan Nasional,6815,Kalah
+Perak,Ipoh Barat,Ah Nan,Barisan Nasional,7248,Kalah
+Perak,Ipoh Barat,Tan Sri M Kayveas,Bebas,378,Kalah
+Perak,Batu Gajah,V. Sivakumar,Pakatan Harapan,60999,Menang
+Perak,Batu Gajah,Teoh Chin Chong,Barisan Nasional,6793,Kalah
+Perak,Batu Gajah,Woo Cheong Yuen ,Perikatan Nasional,7163,Kalah
+Perak,Kuala Kangsar,Dr. Ahmad Termizi Ramli,Pakatan Harapan,10356,Kalah
+Perak,Kuala Kangsar,Maslin Sham Bin Razman,Barisan Nasional,10814,Kalah
+Perak,Kuala Kangsar,Iskandar Dzulkarnain,Perikatan Nasional,14380,Menang
+Perak,Kuala Kangsar,Dr Yusmalia Bt Mohamad Yusof,Parti Pejuang Tanahair,204,Kalah
+Perak,Beruas,Dato' Ngeh Koo Ham,Pakatan Harapan,46710,Menang
+Perak,Beruas,Ding Siew Chee,Barisan Nasional,12724,Kalah
+Perak,Beruas,Ir. Ong Kean Sing,Perikatan Nasional,12739,Kalah
+Perak,Parit,Nurthaqaffah Nordin,Pakatan Harapan,5063,Kalah
+Perak,Parit,Dato' Nizar,Barisan Nasional,15026,Kalah
+Perak,Parit,Ustaz Ismi Mat Taib,Perikatan Nasional,17181,Menang
+Perak,Parit,Dr. Faizol Fadzli,Parti Pejuang Tanahair,275,Kalah
+Perak,Kampar,Chong Zhemin,Pakatan Harapan,30467,Menang
+Perak,Kampar,Lee Chee Leong,Barisan Nasional,16137,Kalah
+Perak,Kampar,Janice Wong,Perikatan Nasional,12127,Kalah
+Perak,Kampar,Leong Cheok Lung ,Parti Warisan Sabah,655,Kalah
+Perak,Tapah,Saraswathy Kandasami,Pakatan Harapan,13334,Kalah
+Perak,Tapah,Datuk Seri M. Saravanan,Barisan Nasional,18398,Menang
+Perak,Tapah,Datuk Haji Muhammad Yadzan Bin Haji Mohammad,Perikatan Nasional,12115,Kalah
+Perak,Tapah,Mior Haidir,Parti Pejuang Tanahair,335,Kalah
+Perak,Tapah,Mohamed Akbar B. Yasin,Parti Warisan Sabah,200,Kalah
+Perak,Tapah,M. Kathiravan,Bebas,99,Kalah
+Perak,Pasir Salak,Ustaz Nik Omar Nik Abdul Aziz,Pakatan Harapan,11693,Kalah
+Perak,Pasir Salak,Khairul Azwan Harun,Barisan Nasional,19894,Kalah
+Perak,Pasir Salak,Ustaz Jamaludin Bin Yahya,Perikatan Nasional,24897,Menang
+Perak,Pasir Salak,Zairol Hizam Bin Zakaria,Parti Pejuang Tanahair,539,Kalah
+Perak,Lumut,Dr Hatta Ramli,Pakatan Harapan,20358,Kalah
+Perak,Lumut,Komander (B) Nordin Bin Ahmad Ismail,Perikatan Nasional,25212,Menang
+Perak,Lumut,Dr Zambry Abd Kadir,Barisan Nasional,24849,Kalah
+Perak,Lumut,Mazlan Abd Ghani,Parti Pejuang Tanahair,385,Kalah
+Perak,Lumut,Komander Isnin Ismail Ibrahim Khan,Parti Warisan Sabah,358,Kalah
+Perak,Bagan Datuk,Datuk Seri Shamsul Iskandar Mohd Akin,Pakatan Harapan,16230,Kalah
+Perak,Bagan Datuk,Dr. Mohammad Faiz Na'Aman,Perikatan Nasional,8822,Kalah
+Perak,Bagan Datuk,Datuk Seri Ahmad Zahid Hamidi,Barisan Nasional,16578,Menang
+Perak,Bagan Datuk,Tawfik Tun Dr Ismail,Bebas,226,Kalah
+Perak,Teluk Intan,Nga Kor Ming,Pakatan Harapan,33133,Menang
+Perak,Teluk Intan,Zainol Fadzi Paharudin,Perikatan Nasional,17964,Kalah
+Perak,Teluk Intan,Dato T. Murugiah,Barisan Nasional,12304,Kalah
+Perak,Teluk Intan,Amir Khusyairi Bin Mohamad Tanusi,Parti Pejuang Tanahair,793,Kalah
+Perak,Tanjong Malim,Chang Lih Kang,Pakatan Harapan,25140,Menang
+Perak,Tanjong Malim,Dr Mah Hang Soon,Barisan Nasional,20963,Kalah
+Perak,Tanjong Malim,Nolee Radzi,Perikatan Nasional,21599,Kalah
+Perak,Tanjong Malim,Datuk Jamaluddin Bin Mohd. Radzi,Bebas,1032,Kalah
+Perak,Tanjong Malim,Cikgu Izzat Johari,Bebas,328,Kalah
+Perak,Tanjong Malim,Dr Amir Hamzah,Parti Pejuang Tanahair,609,Kalah
+Perak,Gopeng,Tan Kar Hing,Pakatan Harapan,55880,Menang
+Perak,Gopeng,Cally Ting,Barisan Nasional,18393,Kalah
+Perak,Gopeng,Muhammad Farhan Bin Abdul Rahim,Perikatan Nasional,28732,Kalah
+Perak,Gopeng,Balachandran A/L Gopal,Parti Warisan Sabah,633,Kalah
+Perlis,Padang Besar,Kapt (B) Hj Mohamad Yahaya,Pakatan Harapan,7085,Kalah
+Perlis,Padang Besar,Zahida Binti Zarik Khan,Barisan Nasional,11753,Kalah
+Perlis,Padang Besar,Rushdan Bin Rusmi,Perikatan Nasional,24267,Menang
+Perlis,Padang Besar,Ko Chu Liang,Parti Warisan Sabah,244,Kalah
+Perlis,Padang Besar,Zahidi Bin Zainul Abidin,Bebas,1939,Kalah
+Perlis,Kangar,Amin Ahmad,Pakatan Harapan,15143,Kalah
+Perlis,Kangar,Dr Fathul Bari,Barisan Nasional,15370,Kalah
+Perlis,Kangar,Cikgu Zakri ,Perikatan Nasional,24562,Menang
+Perlis,Kangar,Ustaz Nur Sulaiman Bin Zolkapli,Parti Pejuang Tanahair,708,Kalah
+Perlis,Kangar,Prof. Dr. Rohimi Shapiee,Parti Warisan Sabah,417,Kalah
+Perlis,Arau,Fathin Amelina Binti Fazlie,Pakatan Harapan,7089,Kalah
+Perlis,Arau,Rozabil @ Tok Ben,Barisan Nasional,8242,Kalah
+Perlis,Arau,Shahidan Bin Kassim,Perikatan Nasional,31458,Menang
+Pulau Pinang,Kepala Batas,Muhammad Danial Abdul Majeed,Ikatan Demokratik Malaysia,14214,Kalah
+Pulau Pinang,Kepala Batas,Dato' Sri Reezal Merican Bin Naina Merican,Barisan Nasional,25737,Kalah
+Pulau Pinang,Kepala Batas,Dr Ustazah Mastura,Perikatan Nasional,28604,Menang
+Pulau Pinang,Kepala Batas,Ustaz Hamidi Abu Hassan,Parti Pejuang Tanahair,747,Kalah
+Pulau Pinang,Tasek Gelugor,Razak Ridzuan,Pakatan Harapan,16547,Kalah
+Pulau Pinang,Tasek Gelugor,Muhamad Yusoff Bin Mohd Noor (Yb Chop),Barisan Nasional,18864,Kalah
+Pulau Pinang,Tasek Gelugor,Datuk Wan Saiful Wan Jan,Perikatan Nasional,31116,Menang
+Pulau Pinang,Tasek Gelugor,Dr. Abdul Halim,Parti Pejuang Tanahair,406,Kalah
+Pulau Pinang,Tasek Gelugor,Akmal Azhar,Parti Warisan Sabah,179,Kalah
+Pulau Pinang,Bagan,Lim Guan Eng,Pakatan Harapan,55797,Menang
+Pulau Pinang,Bagan,Tan Chuan Hong,Barisan Nasional,5385,Kalah
+Pulau Pinang,Bagan,Alan Oh,Perikatan Nasional,6149,Kalah
+Pulau Pinang,Bagan,Mohammed Hafiz Bin Mohamed Abu Bakar,Parti Pejuang Tanahair,1323,Kalah
+Pulau Pinang,Permatang Pauh,Nurul Izzah Anwar,Pakatan Harapan,32366,Kalah
+Pulau Pinang,Permatang Pauh,Datuk Zaidi Said,Barisan Nasional,16971,Kalah
+Pulau Pinang,Permatang Pauh,Ust Fawwaz Md Jan,Perikatan Nasional,37638,Menang
+Pulau Pinang,Permatang Pauh,Cikgu Nasir,Parti Pejuang Tanahair,473,Kalah
+Pulau Pinang,Bukit Mertajam,Steven Sim Chee Keong,Pakatan Harapan,71722,Menang
+Pulau Pinang,Bukit Mertajam,Ah Pang,Barisan Nasional,6986,Kalah
+Pulau Pinang,Bukit Mertajam,Steven Koh,Perikatan Nasional,14037,Kalah
+Pulau Pinang,Batu Kawan,Chow Kon Yeow,Pakatan Harapan,50744,Menang
+Pulau Pinang,Batu Kawan,Tan Lee Huat,Barisan Nasional,7145,Kalah
+Pulau Pinang,Batu Kawan,Wong Chia Zhen,Perikatan Nasional,10344,Kalah
+Pulau Pinang,Batu Kawan,Ong Chin Wen,Parti Warisan Sabah,450,Kalah
+Pulau Pinang,Batu Kawan,Lee Ah Leong,Parti Rakyat Malaysia,148,Kalah
+Pulau Pinang,Nibong Tebal,Fadhlina Binti Sidek,Pakatan Harapan,42188,Menang
+Pulau Pinang,Nibong Tebal,Dato' Mansor Bin Othman,Perikatan Nasional,25895,Kalah
+Pulau Pinang,Nibong Tebal,Datuk Seri Thanenthiran,Barisan Nasional,10660,Kalah
+Pulau Pinang,Nibong Tebal,Goh Kheng Huat,Bebas,565,Kalah
+Pulau Pinang,Bukit Bendera,Syerleena Abdul Rashid,Pakatan Harapan,49353,Menang
+Pulau Pinang,Bukit Bendera,Hng Chee Wey,Perikatan Nasional,6743,Kalah
+Pulau Pinang,Bukit Bendera,Razalif Zain,Bebas,299,Kalah
+Pulau Pinang,Bukit Bendera,Teh Yee Cheu,Parti Rakyat Malaysia,677,Kalah
+Pulau Pinang,Bukit Bendera,Richie Huan Xin Yun,Barisan Nasional,5417,Kalah
+Pulau Pinang,Tanjong,Lim Hui Ying,Pakatan Harapan,31968,Menang
+Pulau Pinang,Tanjong,Tan Kim Nee,Barisan Nasional,3214,Kalah
+Pulau Pinang,Tanjong,Ah Leng,Perikatan Nasional,2501,Kalah
+Pulau Pinang,Jelutong,Sanisvara Nethaji Rayer (Rsn Rayer),Pakatan Harapan,50369,Menang
+Pulau Pinang,Jelutong,Baljit Singh,Perikatan Nasional,11765,Kalah
+Pulau Pinang,Jelutong,Lim Huat Poh (Martin),Parti Warisan Sabah,442,Kalah
+Pulau Pinang,Jelutong,Datuk Loganathan A/L Thoraisamy,Barisan Nasional,7387,Kalah
+Pulau Pinang,Jelutong,Koh Swe Yong,Parti Rakyat Malaysia,264,Kalah
+Pulau Pinang,Jelutong,Yacoob Bin Noor,Bebas,480,Kalah
+Pulau Pinang,Bukit Gelugor,Ramkarpal Singh,Pakatan Harapan,71204,Menang
+Pulau Pinang,Bukit Gelugor,Wong Chin Chong,Barisan Nasional,6777,Kalah
+Pulau Pinang,Bukit Gelugor,P. Thinagaranabhan,Perikatan Nasional,8092,Kalah
+Pulau Pinang,Bayan Baru,Sim Tze Tzin,Pakatan Harapan,55209,Menang
+Pulau Pinang,Bayan Baru,Saw Yee Fung,Barisan Nasional,13377,Kalah
+Pulau Pinang,Bayan Baru,Oh Tong Keong,Perikatan Nasional,20307,Kalah
+Pulau Pinang,Bayan Baru,Jeff Ooi,Parti Warisan Sabah,440,Kalah
+Pulau Pinang,Bayan Baru,Ravinder Singh,Parti Rakyat Malaysia,251,Kalah
+Pulau Pinang,Bayan Baru,Kan Chee Yuen,Bebas,124,Kalah
+Pulau Pinang,Balik Pulau,Muhammad Bakhtiar Bin Wan Chik,Pakatan Harapan,24564,Menang
+Pulau Pinang,Balik Pulau,Datuk Shah Headan Bin Ayoob Shah,Barisan Nasional,15478,Kalah
+Pulau Pinang,Balik Pulau,Muhammad Harris Idaham Rashid,Perikatan Nasional,22982,Kalah
+Pulau Pinang,Balik Pulau,Dato' Sri Johnny (Dsj),Bebas,180,Kalah
+Pulau Pinang,Balik Pulau,Dato Sri Sabaruddin Bin Ahmad,Bebas,366,Kalah
+Pulau Pinang,Balik Pulau,Fazli Mohammad,Parti Pejuang Tanahair,341,Kalah
+Sabah,Kudat,Thonny Chee,Pakatan Harapan,4726,Kalah
+Sabah,Kudat,Ruddy Bin Awah,Gabungan Rakyat Sabah,14356,Kalah
+Sabah,Kudat,Rashid Bin Abdul Harun,Parti Warisan Sabah,9421,Kalah
+Sabah,Kudat,Petronella Usun,Parti Pejuang Tanahair,282,Kalah
+Sabah,Kudat,Verdon Bin Bahanda,Bebas,16323,Menang
+Sabah,Kota Marudu,Shahrizal Denci,Ikatan Demokratik Malaysia,3225,Kalah
+Sabah,Kota Marudu,Dr.Maximus@Johnity Ongkili,Gabungan Rakyat Sabah,16144,Kalah
+Sabah,Kota Marudu,Jilid @ Zainuddin Bin Kuminding,Parti Warisan Sabah,5320,Kalah
+Sabah,Kota Marudu,Mohd Azmi Bin Hj Zulkiflee,Parti Pejuang Tanahair,279,Kalah
+Sabah,Kota Marudu,Norman Bin Tulang (Tas),Bebas,660,Kalah
+Sabah,Kota Marudu, Datuk Wetrom Bahanda,Parti Kesejahteraan Demokratik Masyarakat,24318,Menang
+Sabah,Kota Belud,Madeli @ Modily Bin Bangali,Pakatan Harapan,8323,Kalah
+Sabah,Kota Belud,Datuk Seri Panglima Abd Rahman Bin Dahlan,Barisan Nasional,20566,Kalah
+Sabah,Kota Belud,Munirah Majilis,Parti Warisan Sabah,25148,Menang
+Sabah,Tuaran,Madius Tangau,Pakatan Harapan,24943,Menang
+Sabah,Tuaran,Joniston Bangkuai,Gabungan Rakyat Sabah,24710,Kalah
+Sabah,Tuaran,Jo-Anna Sue Henley Rampas,Parti Warisan Sabah,5728,Kalah
+Sabah,Tuaran,Muminin B. Norbinsha,Parti Pejuang Tanahair,445,Kalah
+Sabah,Tuaran,Noortaip Bin Suhaili @ Sualee,Bebas,2008,Kalah
+Sabah,Tuaran,Boby Bin Lewat,Bebas,393,Kalah
+Sabah,Sepanggar,Mustapha Sakmud,Pakatan Harapan,27022,Menang
+Sabah,Sepanggar,Yakub Khan,Barisan Nasional,19980,Kalah
+Sabah,Sepanggar,Jumardie Lukman,Parti Kesejahteraan Demokratik Masyarakat,3977,Kalah
+Sabah,Sepanggar,Mohd Azis Jamman,Parti Warisan Sabah,18594,Kalah
+Sabah,Sepanggar,Yusof Bin Kunchang,Parti Pejuang Tanahair,731,Kalah
+Sabah,Kota Kinabalu,Chan Foong Hin,Pakatan Harapan,31359,Menang
+Sabah,Kota Kinabalu,Yee Tsai Yiew,Gabungan Rakyat Sabah,4592,Kalah
+Sabah,Kota Kinabalu,Yeo Yan Yin @ Amanda,Parti Warisan Sabah,7576,Kalah
+Sabah,Kota Kinabalu,Winston Liaw Kit Siong,Parti Kesejahteraan Demokratik Masyarakat,456,Kalah
+Sabah,Kota Kinabalu,Marcel Jude,Bebas,137,Kalah
+Sabah,Putatan,Awang Husaini Bin Sahari,Pakatan Harapan,16110,Kalah
+Sabah,Putatan,Shahelmey Bin Yahya,Barisan Nasional,16234,Menang
+Sabah,Putatan,Ahmad Bin Mohd Said,Parti Warisan Sabah,8511,Kalah
+Sabah,Putatan,Poyne B. Tudus @ Patrick Payne,Parti Pejuang Tanahair,394,Kalah
+Sabah,Penampang,Ewon Benedick,Pakatan Harapan,29066,Menang
+Sabah,Penampang,Kenny Chua Teck Ho,Gabungan Rakyat Sabah,6719,Kalah
+Sabah,Penampang,Darell Leiking,Parti Warisan Sabah,14656,Kalah
+Sabah,Penampang,Richard Jimmy,Bebas,289,Kalah
+Sabah,Papar,Datuk Armizan Bin Mohd Ali,Gabungan Rakyat Sabah,22620,Menang
+Sabah,Papar,Hj. Ahmad Hassan,Parti Warisan Sabah,10396,Kalah
+Sabah,Papar,Nicholas Sylvester @ Berry,Parti Pejuang Tanahair,783,Kalah
+Sabah,Papar,Norbert Chin,Bebas,231,Kalah
+Sabah,Papar,Johnny Sitamin,Bebas,335,Kalah
+Sabah,Papar,Henry Shim,Pakatan Harapan,9144,Kalah
+Sabah,Kimanis,Rowindy Lawrence Odong,Pakatan Harapan,3931,Kalah
+Sabah,Kimanis,Mohamad Bin Alamin,Barisan Nasional,13004,Menang
+Sabah,Kimanis,Amat Bin Md Yusof,Parti Kesejahteraan Demokratik Masyarakat,4013,Kalah
+Sabah,Kimanis,Daud Bin Yusof,Parti Warisan Sabah,9967,Kalah
+Sabah,Kimanis,Yusop Bin Osman,Parti Pejuang Tanahair,153,Kalah
+Sabah,Beaufort,Dikin Bin Musah,Pakatan Harapan,7835,Kalah
+Sabah,Beaufort,Datuk Siti Aminah Binti Aching,Barisan Nasional,10570,Menang
+Sabah,Beaufort,Masri Bin Adul,Parti Warisan Sabah,2152,Kalah
+Sabah,Beaufort,Johan @ Christopher Bin O T Ghani,Bebas,546,Kalah
+Sabah,Beaufort,Matlani Bin Sabli,Bebas,143,Kalah
+Sabah,Beaufort,Datuk Hjh.Johair Mat Lani,Parti Kesejahteraan Demokratik Masyarakat,8052,Kalah
+Sabah,Sipitang,Lahirul,Pakatan Harapan,4834,Kalah
+Sabah,Sipitang,Datuk Matbali Bin Musah,Gabungan Rakyat Sabah,14459,Menang
+Sabah,Sipitang,Adnan Bin Okk Puteh,Parti Warisan Sabah,9768,Kalah
+Sabah,Ranau,Taufik Dahlan,Pakatan Harapan,11514,Kalah
+Sabah,Ranau,Jonathan Yasin,Gabungan Rakyat Sabah,22606,Menang
+Sabah,Ranau,Markos Siton,Parti Warisan Sabah,2657,Kalah
+Sabah,Ranau,Azizul Julirin,Parti Pejuang Tanahair,1267,Kalah
+Sabah,Ranau,Ewon Bin Ebin,Parti Bersatu Rakyat Sabah,4254,Kalah
+Sabah,Keningau,Grelydia Gillod,Pakatan Harapan,15099,Kalah
+Sabah,Keningau,Datuk Seri Panglima Dr.Jeffrey G.Kitingan,Gabungan Rakyat Sabah,23155,Menang
+Sabah,Keningau,Rasinin Bin Koutis @ Kautis,Parti Warisan Sabah,7020,Kalah
+Sabah,Keningau,Datuk Jake Nointin,Parti Kesejahteraan Demokratik Masyarakat,9598,Kalah
+Sabah,Tenom,Noorita Sual,Pakatan Harapan,8919,Kalah
+Sabah,Tenom,Jamawi Bin Ja'Afar,Barisan Nasional,8625,Kalah
+Sabah,Tenom,Ukim Buandi,Parti Warisan Sabah,992,Kalah
+Sabah,Tenom,Riduan Bin Rubin,Bebas,10027,Menang
+Sabah,Tenom,Peggy Chaw Zhi Ting,Bebas,86,Kalah
+Sabah,Pensiangan,Sangkar Bin Rasam,Pakatan Harapan,14211,Kalah
+Sabah,Pensiangan,Datuk Arthur Joseph Kurup,Barisan Nasional,19623,Menang
+Sabah,Pensiangan,Siti Noorhasmahwatty Osman,Parti Warisan Sabah,1512,Kalah
+Sabah,Pensiangan,Jamani Bin Derimin,Parti Pejuang Tanahair,124,Kalah
+Sabah,Pensiangan,Jekerison Kilan,Parti Kesejahteraan Demokratik Masyarakat,1640,Kalah
+Sabah,Beluran,Felix Joseph Saang,Pakatan Harapan,4460,Kalah
+Sabah,Beluran,Ronald Kiandee,Perikatan Nasional,11303,Menang
+Sabah,Beluran,Rowiena Rasid,Parti Warisan Sabah,3707,Kalah
+Sabah,Beluran,Hausing Bin Samsudin @ Sudin,Parti Pejuang Tanahair,155,Kalah
+Sabah,Beluran,Benedict Asmat,Barisan Nasional,9709,Kalah
+Sabah,Libaran,Dr Peter Jr Naintin,Pakatan Harapan,10351,Kalah
+Sabah,Libaran,Suhaimi Bin Nasir,Barisan Nasional,22969,Menang
+Sabah,Libaran,Sharif Bokrata,Parti Warisan Sabah,9185,Kalah
+Sabah,Libaran,Jeffri @ Amat Pudang,Parti Pejuang Tanahair,826,Kalah
+Sabah,Libaran,Hj. Amdan Bin Tumpong,Bebas,659,Kalah
+Sabah,Libaran,Nordin Bin Khani,Parti Perpaduan Rakyat Sabah,541,Kalah
+Sabah,Batu Sapi,Liau Fui Fui,Pakatan Harapan,7331,Kalah
+Sabah,Batu Sapi,Khairul Firdaus Akbar Khan,Gabungan Rakyat Sabah,12152,Menang
+Sabah,Batu Sapi,Alias Bin Sani,Parti Warisan Sabah,7218,Kalah
+Sabah,Batu Sapi,Boni Yusuf Juanico Abdullah,Parti Pejuang Tanahair,176,Kalah
+Sabah,Batu Sapi,Ir. Hj. Othman Hj. Ahmad,Bebas,160,Kalah
+Sabah,Sandakan,Vivian Wong Shir Yee,Pakatan Harapan,16673,Menang
+Sabah,Sandakan,Lau Chi Keong @ Thomas Lau,Gabungan Rakyat Sabah,5054,Kalah
+Sabah,Sandakan,Alex Thien,Parti Warisan Sabah,5642,Kalah
+Sabah,Sandakan,Peter Hii,Bebas,2342,Kalah
+Sabah,Sandakan,Syeikh Lokeman,Bebas,962,Kalah
+Sabah,Sandakan,Hajjah Lita Tan Binti Abdullah,Bebas,246,Kalah
+Sabah,Kinabatangan,Bung Moktar Bin Radin,Barisan Nasional,16842,Menang
+Sabah,Kinabatangan,Mazliwati Binti Abdul Malek,Parti Warisan Sabah,12512,Kalah
+Sabah,Lahad Datu,Sia Yu Hock,Pakatan Harapan,8289,Kalah
+Sabah,Lahad Datu,Maizatul Akmam Bt Hj Alawi,Barisan Nasional,22740,Kalah
+Sabah,Lahad Datu,Dato' Hj Mohammad Yusof Bin Apdal,Parti Warisan Sabah,27116,Menang
+Sabah,Semporna,Arastam Bin Pandorog,Pakatan Harapan,1848,Kalah
+Sabah,Semporna,Nixon Bin Abdul Habi,Gabungan Rakyat Sabah,7892,Kalah
+Sabah,Semporna,Mohd Shafie Apdal,Parti Warisan Sabah,28702,Menang
+Sabah,Semporna,Ab Rajik Ab Hamid,Parti Pejuang Tanahair,467,Kalah
+Sabah,Tawau,Christina Liew ,Pakatan Harapan,16065,Kalah
+Sabah,Tawau,Lo Su Fui,Gabungan Rakyat Sabah,19865,Menang
+Sabah,Tawau,Kc Chen Ket Chuin ,Parti Warisan Sabah,11263,Kalah
+Sabah,Tawau,Mohd Salleh Bacho,Bebas,1776,Kalah
+Sabah,Tawau,Herman Bin Amdas,Parti Pejuang Tanahair,1067,Kalah
+Sabah,Tawau,Dato' Chin Chee Syn,Bebas,651,Kalah
+Sabah,Kalabakan,Noraini Abd Ghapur,Pakatan Harapan,9398,Kalah
+Sabah,Kalabakan,Ma'Mun Bin Sulaiman,Parti Warisan Sabah,14755,Kalah
+Sabah,Kalabakan,Dr Nur Aini Abd Rahman (Md),Parti Pejuang Tanahair,1681,Kalah
+Sabah,Kalabakan,Dato Muhamad,Bebas,341,Kalah
+Sabah,Kalabakan,Andi Muhammad Suryady Bin Bandy,Barisan Nasional,23855,Menang
+Sarawak,Mas Gading,Mordi Anak Bimol,Parti Tindakan Demokratik,17274,Menang
+Sarawak,Mas Gading,Lidang Disen,Gabungan Parti Sarawak,11794,Kalah
+Sarawak,Mas Gading,Ryan Sim Min Leong,Parti Bumi Kenyalang,2311,Kalah
+Sarawak,Santubong,Mohamad Zen Peli,Pakatan Harapan,5058,Kalah
+Sarawak,Santubong,Nancy Shukri,Gabungan Parti Sarawak,43739,Menang
+Sarawak,Santubong,Affendi Bin Jeman,Bebas,3012,Kalah
+Sarawak,Petra Jaya,Sopian Julaihi,Pakatan Harapan,13382,Kalah
+Sarawak,Petra Jaya,Fadillah Bin Yusof,Gabungan Parti Sarawak,54745,Menang
+Sarawak,Petra Jaya,Othman Bin Abdillah,Parti Sedar Rakyat Sarawak,1036,Kalah
+Sarawak,Bandar Kuching,Kelvin Yii Lee Wuen,Parti Tindakan Demokratik,45353,Menang
+Sarawak,Bandar Kuching,Tay Tze Kok,Gabungan Parti Sarawak,16462,Kalah
+Sarawak,Bandar Kuching,Voon Lee Shan,Parti Sarawak Bersatu,1760,Kalah
+Sarawak,Stampin,Chong Chieng Jen,Parti Tindakan Demokratik,39310,Menang
+Sarawak,Stampin,Lue Cheng Hing,Parti Sarawak Bersatu,2291,Kalah
+Sarawak,Stampin,Lo Khere Chiang,Gabungan Parti Sarawak,32152,Kalah
+Sarawak,Kota Samarahan,Abang Halil,Pakatan Harapan,12833,Kalah
+Sarawak,Kota Samarahan,Datuk Hjh Rubiah Binti Wang,Gabungan Parti Sarawak,42278,Menang
+Sarawak,Puncak Borneo,Diog Anak Dios,Pakatan Harapan,16119,Kalah
+Sarawak,Puncak Borneo,Willie Anak Mongin,Gabungan Parti Sarawak,29457,Menang
+Sarawak,Puncak Borneo,Iana Anak Akam,Parti Sarawak Bersatu,5578,Kalah
+Sarawak,Serian,Learry Anak Jabul,Pakatan Harapan,5289,Kalah
+Sarawak,Serian,Dato' Sri Richard Riot Anak Jaem,Gabungan Parti Sarawak,22876,Menang
+Sarawak,Serian,Elsiy A/K Tingang,Parti Sarawak Bersatu,5630,Kalah
+Sarawak,Serian,Dr Alim Impira,Bebas,6179,Kalah
+Sarawak,Batang Sadong,Rodiyah Binti Sapiee,Gabungan Parti Sarawak,18668,Menang
+Sarawak,Batang Sadong,Cikgu Lahaji,Pakatan Harapan,3775,Kalah
+Sarawak,Batang Lupar,Mohamad Shafizan,Gabungan Parti Sarawak,19627,Menang
+Sarawak,Batang Lupar,Hamdan Sani,Perikatan Nasional,5164,Kalah
+Sarawak,Batang Lupar,Wel @ Maxwel Rojis,Pakatan Harapan,2768,Kalah
+Sarawak,Sri Aman,Naga Libau @ Tay,Pakatan Harapan,2021,Kalah
+Sarawak,Sri Aman,Doris Sophia Anak Brodi,Gabungan Parti Sarawak,14131,Menang
+Sarawak,Sri Aman,Masir Anak Kujat,Bebas,5673,Kalah
+Sarawak,Sri Aman,Wilson Anak Entabang,Parti Sarawak Bersatu,10092,Kalah
+Sarawak,Lubok Antu,Langga Lias,Pakatan Harapan,746,Kalah
+Sarawak,Lubok Antu,Jugah Muyang,Perikatan Nasional,5360,Kalah
+Sarawak,Lubok Antu,Roy Angau Anak Gingkoi,Gabungan Parti Sarawak,6644,Menang
+Sarawak,Lubok Antu,Johnichal Rayong Ngipa,Parti Sarawak Bersatu,6544,Kalah
+Sarawak,Betong,Patrick Kamis @ Hj Kameng,Pakatan Harapan,5177,Kalah
+Sarawak,Betong,Dr. Richard Rapu,Gabungan Parti Sarawak,16479,Menang
+Sarawak,Betong,Hasbie Bin Satar,Bebas,5057,Kalah
+Sarawak,Saratok,Ibil Jaya,Pakatan Harapan,1221,Kalah
+Sarawak,Saratok,Datuk Ali Biju,Perikatan Nasional,19223,Menang
+Sarawak,Saratok,Giendam Jonathan Tait,Gabungan Parti Sarawak,10397,Kalah
+Sarawak,Tanjong Manis,Ustazah Zainab,Pakatan Harapan,2566,Kalah
+Sarawak,Tanjong Manis,Ir. Yusuf Abd Wahab,Gabungan Parti Sarawak,16474,Menang
+Sarawak,Igan,Hud Andri,Pakatan Harapan,1162,Kalah
+Sarawak,Igan,Ahmad Johnie Bin Zawawi,Gabungan Parti Sarawak,15824,Menang
+Sarawak,Sarikei,Roderick Wong Siew Lead,Parti Tindakan Demokratik,16383,Kalah
+Sarawak,Sarikei,Huang Tiong Sii,Gabungan Parti Sarawak,20080,Menang
+Sarawak,Julau,Susan Anak George,Parti Bansa Dayak Sarawak,335,Kalah
+Sarawak,Julau,Joseph Salang,Gabungan Parti Sarawak,7819,Kalah
+Sarawak,Julau,Larry Soon @ Larry Sng Wei Shien,Parti Bangsa Malaysia,9159,Menang
+Sarawak,Julau,Elly Lawai Ngalai,Bebas,5224,Kalah
+Sarawak,Kanowit,Joseph Nyambong,Pakatan Harapan,7175,Kalah
+Sarawak,Kanowit,Dr. Elli Luhat,Bebas,427,Kalah
+Sarawak,Kanowit,Aaron Ago Anak Dagang,Gabungan Parti Sarawak,7411,Menang
+Sarawak,Kanowit,George Chen,Bebas,741,Kalah
+Sarawak,Kanowit,Michael Anak Lias,Bebas,2289,Kalah
+Sarawak,Lanang,Alice Lau Kiong Yieng,Parti Tindakan Demokratik,30120,Menang
+Sarawak,Lanang,Dato Wong Tiing Kiong,Bebas,587,Kalah
+Sarawak,Lanang,Priscilla Lau,Parti Sarawak Bersatu,3663,Kalah
+Sarawak,Lanang,Wong Ching Yong,Gabungan Parti Sarawak,18576,Kalah
+Sarawak,Sibu,Oscar Ling Chai Yew,Parti Tindakan Demokratik,31287,Menang
+Sarawak,Sibu,Clarence Ting Ing Horh,Gabungan Parti Sarawak,23527,Kalah
+Sarawak,Sibu,Wong Soon Koh,Parti Sarawak Bersatu,11128,Kalah
+Sarawak,Mukah,Abdul Jalil,Pakatan Harapan,6047,Kalah
+Sarawak,Mukah,Hanifah Hajar Taib,Gabungan Parti Sarawak,21733,Menang
+Sarawak,Selangau,Umpang Anak Sabang,Pakatan Harapan,11092,Kalah
+Sarawak,Selangau,Edwin Anak Banta,Gabungan Parti Sarawak,16078,Menang
+Sarawak,Selangau,Henry Joseph Usau,Bebas,1626,Kalah
+Sarawak,Kapit,Pangkas Ak. Unggang,Pakatan Harapan,4120,Kalah
+Sarawak,Kapit,Alexander Nanta Linggi,Gabungan Parti Sarawak,16522,Menang
+Sarawak,Kapit,Robert Saweng ,Parti Bansa Dayak Sarawak,1357,Kalah
+Sarawak,Hulu Rajang,Abun Sui Anyit,Pakatan Harapan,7951,Kalah
+Sarawak,Hulu Rajang,Ugak Anak Kumbong,Gabungan Parti Sarawak,15456,Menang
+Sarawak,Bintulu,Chiew Chan Yew,Parti Tindakan Demokratik,21287,Kalah
+Sarawak,Bintulu,Duke Anak Janteng,Perikatan Nasional,5650,Kalah
+Sarawak,Bintulu,Dato Sri Tiong King Sing,Gabungan Parti Sarawak,43455,Menang
+Sarawak,Sibuti,Zulhaidah Suboh,Pakatan Harapan,10405,Kalah
+Sarawak,Sibuti,Lukanisman Bin Awang Sauni,Gabungan Parti Sarawak,22150,Menang
+Sarawak,Sibuti,Bobby Anak William,Parti Bansa Dayak Sarawak,1361,Kalah
+Sarawak,Miri,Chiew Choon Man,Pakatan Harapan,39549,Menang
+Sarawak,Miri,Jeffery Phang,Gabungan Parti Sarawak,33390,Kalah
+Sarawak,Miri,Lawrence Lai,Parti Sarawak Bersatu,5209,Kalah
+Sarawak,Limbang,Racha Balang,Pakatan Harapan,4899,Kalah
+Sarawak,Limbang,Hasbi Bin Habibollah,Gabungan Parti Sarawak,14897,Menang
+Sarawak,Lawas,Hj Japar Bin Hj Suyut,Pakatan Harapan,1163,Kalah
+Sarawak,Lawas,Henry Sum Agong,Gabungan Parti Sarawak,11361,Menang
+Sarawak,Lawas,Baru Bian,Parti Sarawak Bersatu,5684,Kalah
+Selangor,Sabak Bernam,Abd Rahman Bin Bakri,Barisan Nasional,12917,Kalah
+Selangor,Sabak Bernam,Cikgu Kalam Bin Salan,Perikatan Nasional,17973,Menang
+Selangor,Sabak Bernam,Dato` Sri Eizlan Yusof,Parti Pejuang Tanahair,460,Kalah
+Selangor,Sabak Bernam,Hj. Shamsul Ma`Arif Ismail,Pakatan Harapan,9627,Kalah
+Selangor,Sungai Besar,Hj Saipolyazan M Yusop,Pakatan Harapan,17070,Kalah
+Selangor,Sungai Besar,Cikgu Muslimin Yahaya,Perikatan Nasional,19791,Menang
+Selangor,Sungai Besar,Dato' Asmawar Bin Samat,Parti Pejuang Tanahair,225,Kalah
+Selangor,Sungai Besar,Dato' Sri Jamal Yunos,Barisan Nasional,13984,Kalah
+Selangor,Hulu Selangor,Dr. Sathia Prakash Nadarajan,Pakatan Harapan,45261,Kalah
+Selangor,Hulu Selangor,Hasnizan Harun,Perikatan Nasional,46823,Menang
+Selangor,Hulu Selangor,Datuk T.Mohan,Barisan Nasional,27050,Kalah
+Selangor,Hulu Selangor,Harumaini Bin Haji Omar,Parti Pejuang Tanahair,1849,Kalah
+Selangor,Hulu Selangor,Azlinda Binti Baroni,Bebas,446,Kalah
+Selangor,Hulu Selangor,Haniza Talha,Parti Bangsa Malaysia,1013,Kalah
+Selangor,Tanjong Karang,Cikgu Rahayu Baharin,Pakatan Harapan,12314,Kalah
+Selangor,Tanjong Karang,Lando Brotherhood,Parti Pejuang Tanahair,3557,Kalah
+Selangor,Tanjong Karang,Kapt (B) Dato Dr Zulkafperi,Perikatan Nasional,18054,Menang
+Selangor,Tanjong Karang,Mohd Rosni,Bebas,1406,Kalah
+Selangor,Tanjong Karang,Dato' Hjh. Habibah,Barisan Nasional,15874,Kalah
+Selangor,Kuala Selangor,Ds Dr Dzulkefly Bin Ahmad,Pakatan Harapan,31033,Menang
+Selangor,Kuala Selangor,Ustaz Mohd Noor Shahar,Perikatan Nasional,23639,Kalah
+Selangor,Kuala Selangor,Tengku Zafrul Aziz,Barisan Nasional,30031,Kalah
+Selangor,Kuala Selangor,Yb Shaid Rosli ,Parti Pejuang Tanahair,1778,Kalah
+Selangor,Selayang,William Leong Jee Keen,Pakatan Harapan,72773,Menang
+Selangor,Selayang,Chan Wun Hoong,Barisan Nasional,19425,Kalah
+Selangor,Selayang,Datuk Abdul Rashid Asari,Perikatan Nasional,49154,Kalah
+Selangor,Selayang,Muhammad Zaki Bin Omar,Bebas,945,Kalah
+Selangor,Selayang,Salleh Amiruddin,Parti Pejuang Tanahair,2584,Kalah
+Selangor,Gombak,Amirudin Shari,Pakatan Harapan,72267,Menang
+Selangor,Gombak,Dato' Seri Azmin Ali,Perikatan Nasional,59538,Kalah
+Selangor,Gombak,Megat Zulkarnain Bin Omardin,Barisan Nasional,30723,Kalah
+Selangor,Gombak,Datuk Dr. Aziz Jamaludin,Parti Pejuang Tanahair,2223,Kalah
+Selangor,Gombak,Ir Hj Zulkifli,Bebas,675,Kalah
+Selangor,Ampang,Rodziah Ismail,Pakatan Harapan,56754,Menang
+Selangor,Ampang,Sasha Lyna Binti Abdul Latif,Perikatan Nasional,27073,Kalah
+Selangor,Ampang,Ivone Low Yi Wen,Barisan Nasional,11509,Kalah
+Selangor,Ampang,Dr. Nurul Ashikin,Parti Pejuang Tanahair,2653,Kalah
+Selangor,Ampang,Bryan Lai,Parti Warisan Sabah,1423,Kalah
+Selangor,Ampang,Zuraida Binti Kamaruddin ,Parti Bangsa Malaysia,4589,Kalah
+Selangor,Ampang,M.Raveen,Bebas,148,Kalah
+Selangor,Ampang,Muhammad Shafiq Izwan Bin Mohd Yunos,Bebas,188,Kalah
+Selangor,Ampang,Tan Hua Meng,Bebas,93,Kalah
+Selangor,Pandan,Rafizi Ramli,Pakatan Harapan,74002,Menang
+Selangor,Pandan,Farique Zubir,Perikatan Nasional,25706,Kalah
+Selangor,Pandan,Leong Kok Wee,Barisan Nasional,11664,Kalah
+Selangor,Pandan,Nadia Hanafiah,Parti Pejuang Tanahair,961,Kalah
+Selangor,Pandan,Ong Tee Keat,Parti Warisan Sabah,3323,Kalah
+Selangor,Hulu Langat,Yb Mohd Sany Hamzan,Pakatan Harapan,58382,Menang
+Selangor,Hulu Langat,Datuk Wira Haji Johan Bin Abd Aziz,Barisan Nasional,32570,Kalah
+Selangor,Hulu Langat,Dato' Dr. Mohd Radzi Abd Latif,Perikatan Nasional,43486,Kalah
+Selangor,Hulu Langat,Dato Haji Markiman Kobiran,Parti Pejuang Tanahair,1655,Kalah
+Selangor,Hulu Langat,Dato' Abdul Rahman Bin Jaafar,Parti Warisan Sabah,370,Kalah
+Selangor,Hulu Langat,Dr Mohamed Mustafa,Bebas,326,Kalah
+Selangor,Bangi,Syahredzan Bin Johan,Pakatan Harapan,141568,Menang
+Selangor,Bangi,Nazrul Nazir,Perikatan Nasional,71867,Kalah
+Selangor,Bangi,Hoh Hee Lee,Barisan Nasional,25685,Kalah
+Selangor,Bangi,Ustaz Annuar Bin Salleh,Parti Pejuang Tanahair,3148,Kalah
+Selangor,Bangi,Dr. Jamal,Bebas,676,Kalah
+Selangor,Bangi,Associate Prof. Suthan M,Bebas,194,Kalah
+Selangor,Bangi,Fauzi Hasim,Bebas,401,Kalah
+Selangor,Bangi,Chee Chee Meng,Parti Rakyat Malaysia,752,Kalah
+Selangor,Puchong,Yeo Bee Yin,Pakatan Harapan,79425,Menang
+Selangor,Puchong,Jimmy Chew Jyh Gang,Perikatan Nasional,18263,Kalah
+Selangor,Puchong,Datuk Seri Haji Syed Ibrahim ,Barisan Nasional,21468,Kalah
+Selangor,Puchong,Uncle Kentang,Bebas,1793,Kalah
+Selangor,Subang,Wong Chen,Pakatan Harapan,138259,Menang
+Selangor,Subang,Alex Ang H N,Perikatan Nasional,23185,Kalah
+Selangor,Subang,Dr Kow Cheong Wei,Barisan Nasional,16539,Kalah
+Selangor,Petaling Jaya,Lee Chean Chung,Pakatan Harapan,83311,Menang
+Selangor,Petaling Jaya,Dato Theng Book,Perikatan Nasional,32736,Kalah
+Selangor,Petaling Jaya,Chew Hian Tat,Barisan Nasional,23253,Kalah
+Selangor,Petaling Jaya,Mazween Mokhtar,Parti Pejuang Tanahair,4052,Kalah
+Selangor,Petaling Jaya,Datuk Ezam Mohd Nor,Parti Rakyat Malaysia,2049,Kalah
+Selangor,Petaling Jaya,Dr. K. J. John,Bebas,461,Kalah
+Selangor,Damansara,Gobind Singh Deo,Pakatan Harapan,142875,Menang
+Selangor,Damansara,Lim Si Ching,Perikatan Nasional,18256,Kalah
+Selangor,Damansara,Tan Gim Tuan Gt,Barisan Nasional,13806,Kalah
+Selangor,Sungai Buloh,Ramanan Ramakrishnan,Pakatan Harapan,50943,Menang
+Selangor,Sungai Buloh,Khairy Jamaluddin Abu Bakar,Barisan Nasional,48250,Kalah
+Selangor,Sungai Buloh,Hj Mohd Ghazali Bin Md Hamin,Perikatan Nasional,29060,Kalah
+Selangor,Sungai Buloh,Akmal Yusoff,Parti Pejuang Tanahair,829,Kalah
+Selangor,Sungai Buloh,Syed Razak Alsagoff,Bebas,165,Kalah
+Selangor,Sungai Buloh,Sifu Linda,Bebas,113,Kalah
+Selangor,Sungai Buloh,Ahmad Jufliz,Parti Rakyat Malaysia,279,Kalah
+Selangor,Shah Alam,Azli Yusof,Pakatan Harapan,61409,Menang
+Selangor,Shah Alam,Dr. Afif Bahardin,Perikatan Nasional,43314,Kalah
+Selangor,Shah Alam,Isham Jalil,Barisan Nasional,28266,Kalah
+Selangor,Shah Alam,Rafique Rashid,Parti Pejuang Tanahair,2781,Kalah
+Selangor,Kapar,Abdullah Sani Abdul Hamid,Pakatan Harapan,53969,Kalah
+Selangor,Kapar,Dr Halimah Ali,Perikatan Nasional,65751,Menang
+Selangor,Kapar,Muhammad Bin Noor Azman,Barisan Nasional,35079,Kalah
+Selangor,Kapar,Ust. Hj. Mohd Pathan Bin Hussin,Parti Pejuang Tanahair,1015,Kalah
+Selangor,Kapar,Dato' Seri Rahim,Parti Warisan Sabah,265,Kalah
+Selangor,Kapar,Dato' Sri Sivalingam,Bebas,477,Kalah
+Selangor,Kapar,Dr Daroyah Binti Alwi,Parti Bangsa Malaysia,1474,Kalah
+Selangor,Klang,Ganabatirau A/L Veraman,Pakatan Harapan,115539,Menang
+Selangor,Klang,Dr Jaya Chandran,Barisan Rakyat Sabah Bersekutu,23738,Kalah
+Selangor,Klang,Tee Hooi Ling,Barisan Nasional,19762,Kalah
+Selangor,Klang,Dr. Loo Cheng Wee,Parti Warisan Sabah,1140,Kalah
+Selangor,Klang,Chandrasegar,Parti Rakyat Malaysia,271,Kalah
+Selangor,Klang,Hedrhin Ramli @ Awin,Bebas,3016,Kalah
+Selangor,Klang,Deepak Jaikishan,Bebas,439,Kalah
+Selangor,Kota Raja,Mohd Sabu,Pakatan Harapan,123306,Menang
+Selangor,Kota Raja,Haji Mohamed Diah Baharun,Perikatan Nasional,49308,Kalah
+Selangor,Kota Raja,Kajendran A/L Doraisamy,Barisan Nasional,22225,Kalah
+Selangor,Kota Raja,Fahmi Bazlan Muda,Parti Pejuang Tanahair,2063,Kalah
+Selangor,Kota Raja,Kumar Karananedi,Bebas,163,Kalah
+Selangor,Kota Raja,P.Raveentharan A/L A.Periasamy,Bebas,209,Kalah
+Selangor,Kota Raja,Surendhar Selvaraju,Bebas,106,Kalah
+Selangor,Kota Raja,Sarah Afiqah,Parti Rakyat Malaysia,360,Kalah
+Selangor,Kuala Langat,Manivanan Gowin,Pakatan Harapan,51034,Kalah
+Selangor,Kuala Langat,Mohana Muniandy,Barisan Nasional,18685,Kalah
+Selangor,Kuala Langat,Dr Ahmad Yunus Hairi,Perikatan Nasional,52867,Menang
+Selangor,Kuala Langat,Mohd Ridzuan Abdullah,Parti Pejuang Tanahair,591,Kalah
+Selangor,Kuala Langat,Ganeskumar,Parti Rakyat Malaysia,171,Kalah
+Selangor,Kuala Langat,Hajah Zanariah Jumhuri,Bebas,512,Kalah
+Selangor,Sepang,Aiman Athirah,Pakatan Harapan,56264,Menang
+Selangor,Sepang,Anuar Bin Basiran,Barisan Nasional,31097,Kalah
+Selangor,Sepang,Datuk Seri Rina Harun,Perikatan Nasional,47315,Kalah
+Selangor,Sepang,Che Asmah Ibrahim,Parti Pejuang Tanahair,2337,Kalah
+Selangor,Sepang,Shahrul Amri Mat Sari,Bebas,319,Kalah
+Selangor,Sepang,M. Muneswaran,Bebas,194,Kalah
+Selangor,Sepang,Nageswaran Ravi,Parti Rakyat Malaysia,165,Kalah
+Selangor,Sepang,Daud Leong,Parti Utama Rakyat,264,Kalah
+Terengganu,Besut,Ustaz Aziz,Pakatan Harapan,4339,Kalah
+Terengganu,Besut,Datuk Haji Nawi Mohamad,Barisan Nasional,30903,Kalah
+Terengganu,Besut,Dato' Ir. Wan Nazari,Parti Pejuang Tanahair,553,Kalah
+Terengganu,Besut,Datuk Abe Zul,Parti Islam Se-Malaysia,49569,Menang
+Terengganu,Setiu,Mohamad Bin Ngah,Pakatan Harapan,2125,Kalah
+Terengganu,Setiu,Abdul Rahman Bin Mat Yasin,Barisan Nasional,31736,Kalah
+Terengganu,Setiu,Wan Adnan Bin Wan Ali,Parti Pejuang Tanahair,203,Kalah
+Terengganu,Setiu,Ustaz Zukirnain Abd Kadir,Parti Islam Se-Malaysia,50768,Menang
+Terengganu,Kuala Nerus,Dato' Seri Suhaimi Hashim,Pakatan Harapan,3708,Kalah
+Terengganu,Kuala Nerus,Azaha Bin Wahid,Parti Pejuang Tanahair,291,Kalah
+Terengganu,Kuala Nerus,Ust. Dato' Dr. Khairuddin Takiri,Barisan Nasional,26932,Kalah
+Terengganu,Kuala Nerus,Dato' Dr. Haji Alias Razak,Parti Islam Se-Malaysia,56697,Menang
+Terengganu,Kuala Terengganu,Dato' Raja Bahrin ,Pakatan Harapan,10946,Kalah
+Terengganu,Kuala Terengganu,Dato' Cikgu Zubir ,Barisan Nasional,22109,Kalah
+Terengganu,Kuala Terengganu,Mohamad Abu Bakar Bin Muda,Parti Pejuang Tanahair,481,Kalah
+Terengganu,Kuala Terengganu,Datuk Haji Amzad Hashim,Parti Islam Se-Malaysia,63016,Menang
+Terengganu,Marang,Ustaz Azhar Ab Shukur,Pakatan Harapan,4140,Kalah
+Terengganu,Marang,Jasmira Othman,Barisan Nasional,31386,Kalah
+Terengganu,Marang,Dr.Zarawi Bin Sulong,Parti Pejuang Tanahair,427,Kalah
+Terengganu,Marang,Tuan Guru Haji Abdul Hadi Awang,Parti Islam Se-Malaysia,73115,Menang
+Terengganu,Hulu Terengganu,Cikgu Rozi Bin Mamat,Barisan Nasional,27176,Kalah
+Terengganu,Hulu Terengganu,Mohd Khadri Bin Abdullah,Parti Pejuang Tanahair,182,Kalah
+Terengganu,Hulu Terengganu,Cikgu Alias Ismail,Pakatan Harapan,1740,Kalah
+Terengganu,Hulu Terengganu,Dato Rosol Wahid,Parti Islam Se-Malaysia,42190,Menang
+Terengganu,Dungun,Dato' Dr Mohd Johari,Pakatan Harapan,5307,Kalah
+Terengganu,Dungun,Ustaz Sham,Barisan Nasional,25615,Kalah
+Terengganu,Dungun,Noraisah Binti Hasan,Parti Pejuang Tanahair,322,Kalah
+Terengganu,Dungun,Peguam Ghazali,Bebas,305,Kalah
+Terengganu,Dungun,Ustaz Haji Wan Hassan,Parti Islam Se-Malaysia,59720,Menang
+Terengganu,Kemaman,Hasuni Bin Sudin,Pakatan Harapan,8340,Kalah
+Terengganu,Kemaman,Dato' Seri Hj Ahmad Bin Said,Barisan Nasional,38535,Kalah
+Terengganu,Kemaman,Rosli Bin Ab Ghani,Parti Pejuang Tanahair,506,Kalah
+Terengganu,Kemaman,Ustaz Che Alias Hamid,Parti Islam Se-Malaysia,65714,Menang
+W.P Kuala Lumpur,Kepong,Shaun Young,Parti Warisan Sabah,528,Kalah
+W.P Kuala Lumpur,Kepong,Phaang Jing Fatt,Perikatan Nasional,2795,Kalah
+W.P Kuala Lumpur,Kepong,Yap Zheng Hoe,Barisan Nasional,3227,Kalah
+W.P Kuala Lumpur,Kepong,Yee Poh Ping,Bebas,1461,Kalah
+W.P Kuala Lumpur,Kepong,Lim Lip Eng,Pakatan Harapan,64308,Menang
+W.P Kuala Lumpur,Batu,A. Kohilan Pillay,Barisan Nasional,10398,Kalah
+W.P Kuala Lumpur,Batu,Wan Azliana,Parti Pejuang Tanahair,849,Kalah
+W.P Kuala Lumpur,Batu,Prabakaran Parameswaran,Pakatan Harapan,45716,Menang
+W.P Kuala Lumpur,Batu,Siti Kasim,Bebas,653,Kalah
+W.P Kuala Lumpur,Batu,Too Gao Lan,Bebas,112,Kalah
+W.P Kuala Lumpur,Batu,Ustaz Azhar Yahya,Perikatan Nasional,23475,Kalah
+W.P Kuala Lumpur,Batu,Tian Chua,Bebas,4603,Kalah
+W.P Kuala Lumpur,Batu,Zulkifli Fattah,Parti Rakyat Malaysia,137,Kalah
+W.P Kuala Lumpur,Batu,Nathan Batu,Parti Warisan Sabah,575,Kalah
+W.P Kuala Lumpur,Batu,Nur Fathiah Syazwana @ Cleo,Bebas,628,Kalah
+W.P Kuala Lumpur,Wangsa Maju,Ustazah Nuridah ,Perikatan Nasional,25335,Kalah
+W.P Kuala Lumpur,Wangsa Maju,Zahir Hassan,Pakatan Harapan,46031,Menang
+W.P Kuala Lumpur,Wangsa Maju,Wee Choo Keong,Parti Warisan Sabah,576,Kalah
+W.P Kuala Lumpur,Wangsa Maju,Norzaila ,Parti Pejuang Tanahair,987,Kalah
+W.P Kuala Lumpur,Wangsa Maju,Shafei Abdullah,Barisan Nasional,19595,Kalah
+W.P Kuala Lumpur,Wangsa Maju,Ravee Suntheralingam,Bebas,216,Kalah
+W.P Kuala Lumpur,Segambut,Prabagaran ,Perikatan Nasional,8754,Kalah
+W.P Kuala Lumpur,Segambut,Daniel Ling Sia Chin,Barisan Nasional,8304,Kalah
+W.P Kuala Lumpur,Segambut,Hannah Yeoh,Pakatan Harapan,68438,Menang
+W.P Kuala Lumpur,Setiawangsa,Izudin Bin Ishak,Barisan Nasional,16333,Kalah
+W.P Kuala Lumpur,Setiawangsa,Nurul Fadzilah Binti Kamaluddin,Perikatan Nasional,22270,Kalah
+W.P Kuala Lumpur,Setiawangsa,Bibi Sunita ,Parti Pejuang Tanahair,953,Kalah
+W.P Kuala Lumpur,Setiawangsa,Nik Nazmi Nik Ahmad,Pakatan Harapan,34434,Menang
+W.P Kuala Lumpur,Setiawangsa,Stanley Lim Yen Tiong,Bebas,282,Kalah
+W.P Kuala Lumpur,Setiawangsa,Mejar Mior Rosli Tudm (B),Bebas,492,Kalah
+W.P Kuala Lumpur,Titiwangsa,Khalid Abd Samad,Pakatan Harapan,20410,Kalah
+W.P Kuala Lumpur,Titiwangsa,Datuk Seri Johari Ghani,Barisan Nasional,25042,Menang
+W.P Kuala Lumpur,Titiwangsa,Dr. Rosni Adam,Perikatan Nasional,14518,Kalah
+W.P Kuala Lumpur,Titiwangsa,Dato' Sri Khairuddin Bin Abu Hassan,Parti Pejuang Tanahair,888,Kalah
+W.P Kuala Lumpur,Bukit Bintang,Tan Teik Peng,Barisan Nasional,4850,Kalah
+W.P Kuala Lumpur,Bukit Bintang,Fong Kui Lun,Pakatan Harapan,43827,Menang
+W.P Kuala Lumpur,Bukit Bintang,Edwin Chen,Perikatan Nasional,4259,Kalah
+W.P Kuala Lumpur,Lembah Pantai,Fahmi Fadzil,Pakatan Harapan,35359,Menang
+W.P Kuala Lumpur,Lembah Pantai,Ramlan Askolani,Barisan Nasional,21447,Kalah
+W.P Kuala Lumpur,Lembah Pantai,Haji Fauzi Abu Bakar,Perikatan Nasional,19098,Kalah
+W.P Kuala Lumpur,Lembah Pantai,Dr. Asmah,Parti Pejuang Tanahair,810,Kalah
+W.P Kuala Lumpur,Seputeh,Lee Kah Hing,Barisan Nasional,6032,Kalah
+W.P Kuala Lumpur,Seputeh,Wong Yee Yeng,Perikatan Nasional,6047,Kalah
+W.P Kuala Lumpur,Seputeh,Choy San Yeh,Bebas,865,Kalah
+W.P Kuala Lumpur,Seputeh,Lee Wai Hong,Bebas,1276,Kalah
+W.P Kuala Lumpur,Seputeh,Teresa Kok,Pakatan Harapan,73234,Menang
+W.P Kuala Lumpur,Cheras,Chong Yew Chuan,Barisan Nasional,5606,Kalah
+W.P Kuala Lumpur,Cheras,Ruby Chin,Perikatan Nasional,5846,Kalah
+W.P Kuala Lumpur,Cheras,Tan Kok Wai,Pakatan Harapan,60294,Menang
+W.P Kuala Lumpur,Bandar Tun Razak,Dato' Seri Dr Wan Azizah Binti Wan Ismail,Pakatan Harapan,43476,Menang
+W.P Kuala Lumpur,Bandar Tun Razak,Datuk Chew Yin Keen,Barisan Nasional,15886,Kalah
+W.P Kuala Lumpur,Bandar Tun Razak,Dato Kamarudin Jaffar,Perikatan Nasional,33659,Kalah
+W.P Labuan,W.P Labuan,Dato' Dr. Suhaili Abdul Rahman,Perikatan Nasional,8124,Menang
+W.P Labuan,W.P Labuan,Bashir Bin Alias,Barisan Nasional,7416,Kalah
+W.P Labuan,W.P Labuan,Datuk Rozman Isli,Parti Warisan Sabah,7310,Kalah
+W.P Labuan,W.P Labuan,Datuk Wira Dr Ramli,Pakatan Harapan,5307,Kalah
+W.P Labuan,W.P Labuan,Dayang Rusimah @ Raynie Binti Datuk Hj. Mohd. Din,Parti Bangsa Malaysia,202,Kalah
+W.P Labuan,W.P Labuan,Ramle,Parti Pejuang Tanahair,60,Kalah
+W.P Putrajaya,W.P Putrajaya,Dr. Radzi Jidin (Drj),Perikatan Nasional,16002,Menang
+W.P Putrajaya,W.P Putrajaya,Tengku Adnan Bin Tengku Mansor,Barisan Nasional,13692,Kalah
+W.P Putrajaya,W.P Putrajaya,Noraishah Mydin Binti Haji Abdul Aziz,Pakatan Harapan,5988,Kalah
+W.P Putrajaya,W.P Putrajaya,Dato' Mohd Rosli Bin Ramli,Parti Pejuang Tanahair,878,Kalah
+W.P Putrajaya,W.P Putrajaya,Samsudin Pkpkl,Bebas,63,Kalah
+W.P Putrajaya,W.P Putrajaya,Lim Fice Bee,Bebas,20,Kalah
